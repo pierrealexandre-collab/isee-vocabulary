@@ -42,7 +42,11 @@ function makeQ(w,type){
  if(type==="synonym"){answer=w.synonym;prompt=`Which word or phrase is closest in meaning to <strong>${esc(w.word)}</strong>?`}
  else if(type==="antonym"){answer=w.antonym;prompt=`Which word or phrase is opposite in meaning to <strong>${esc(w.word)}</strong>?`}
  else if(type==="sentence"){answer=w.word;prompt="Choose the vocabulary word that best completes the sentence.";example=w.example?.replace(new RegExp(`\\b${w.word.replace(/[.*+?^${}()|[\\]\\\\]/g,"\\\\$&")}\\b`,"i"),"_____")||""}
- else {answer=w.word;prompt=`Which vocabulary word is closest in meaning to <strong>${esc(w.synonym||w.antonym)}</strong>?`}
+ else {
+  answer=w.word;
+  const clue=w.definition||w.synonym||w.antonym;
+  prompt=`Which vocabulary word matches this definition?<br><strong>${esc(clue)}</strong>`;
+}
  if(!answer)return null;
  let ds=(type==="synonym"||type==="antonym")?distractors(w,type):shuffle(words.filter(x=>x.word!==w.word).map(x=>x.word)).slice(0,3);
  if(ds.length<3)return null;
@@ -71,7 +75,7 @@ function answer(btn){
  let f=$("feedback");f.className="feedback "+(ok?"good":"bad");f.classList.remove("hidden");f.innerHTML=ok?`<b>✨ Great job!</b>${explain(q)}`:`<b>Almost!</b> The answer is <strong>${esc(q.answer)}</strong>.<br>${explain(q)}`;
  $("nextBtn").classList.remove("hidden");save();
 }
-function explain(q){let w=q.w,a=[];if(w.synonym)a.push(`Synonym: <strong>${esc(w.synonym)}</strong>.`);if(w.antonym)a.push(`Antonym: <strong>${esc(w.antonym)}</strong>.`);if(w.example)a.push(`Example: “${esc(w.example)}”`);return a.join(" ")}
+function explain(q){let w=q.w,a=[];if(w.definition)a.push(`Definition: <strong>${esc(w.definition)}</strong>.`);if(w.synonym)a.push(`Synonym: <strong>${esc(w.synonym)}</strong>.`);if(w.antonym)a.push(`Antonym: <strong>${esc(w.antonym)}</strong>.`);if(w.example)a.push(`Example: “${esc(w.example)}”`);return a.join(" ")}
 function finish(){
  let total=quiz.qs.length,p=Math.round(quiz.right/total*100),d=today();
  if(state.lastStudy!==d){let y=new Date();y.setDate(y.getDate()-1);let yd=y.toISOString().slice(0,10);state.streak=state.lastStudy===yd?state.streak+1:1;state.lastStudy=d}
@@ -83,7 +87,7 @@ function finish(){
 function tone(good){if(!state.settings.sound)return;try{let C=window.AudioContext||window.webkitAudioContext,c=new C(),o=c.createOscillator(),v=c.createGain();o.frequency.value=good?660:220;o.type="sine";v.gain.value=.035;o.connect(v);v.connect(c.destination);o.start();o.stop(c.currentTime+.12)}catch(e){}}
 function confetti(){let root=$("confetti");root.innerHTML="";for(let i=0;i<70;i++){let x=document.createElement("i");x.className="piece";x.style.left=Math.random()*100+"%";x.style.top="-20px";x.style.background=`hsl(${Math.random()*360} 80% 60%)`;x.style.setProperty("--x",(Math.random()*240-120)+"px");x.style.animationDelay=Math.random()*.35+"s";root.appendChild(x)}setTimeout(()=>root.innerHTML="",2200)}
 function browse(){show("library");renderWords("")}
-function renderWords(t){t=t.toLowerCase();let list=words.filter(w=>[w.word,w.synonym,w.antonym,w.example].join(" ").toLowerCase().includes(t));$("wordList").innerHTML=list.map(w=>`<div class="word-item card"><div class="word-top"><span class="word">${esc(w.word)}</span><span class="mastery">${mastery(w)>=4?"✓ Mastered":mastery(w)?`${mastery(w)}/5`: "New"}</span></div><div class="word-detail"><b>Synonym:</b> ${esc(w.synonym||"—")} &nbsp; <b>Antonym:</b> ${esc(w.antonym||"—")}</div><div class="word-detail">${esc(w.example||"")}</div></div>`).join("")}
+function renderWords(t){t=t.toLowerCase();let list=words.filter(w=>[w.word,w.synonym,w.antonym,w.example].join(" ").toLowerCase().includes(t));$("wordList").innerHTML=list.map(w=>`<div class="word-item card"><div class="word-top"><span class="word">${esc(w.word)}</span><span class="mastery">${mastery(w)>=4?"✓ Mastered":mastery(w)?`${mastery(w)}/5`: "New"}</span></div><div class="word-detail"><b>Definition:</b> ${esc(w.definition||"—")}</div><div class="word-detail"><b>Synonym:</b> ${esc(w.synonym||"—")} &nbsp; <b>Antonym:</b> ${esc(w.antonym||"—")}</div><div class="word-detail">${esc(w.example||"")}</div></div>`).join("")}
 function parent(){
  show("parent");$("soundToggle").checked=state.settings.sound;$("celebrateToggle").checked=state.settings.celebrate;renderParent()
 }

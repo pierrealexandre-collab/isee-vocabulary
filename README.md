@@ -25,3 +25,6 @@ Upload all files in this folder to a GitHub repository. In Settings → Pages, p
 Use a local server because `vocabulary.json` is fetched by JavaScript:
 `python3 -m http.server 8000`
 then visit `http://localhost:8000/`.
+
+## Vocabulary format
+The current `vocabulary.json` includes `word`, `definition`, `synonym`, `antonym`, and `example` fields from the latest CSV.
