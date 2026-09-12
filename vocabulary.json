@@ -1,0 +1,2515 @@
+[
+  {
+    "id": 1,
+    "word": "abate",
+    "synonym": "subside",
+    "antonym": "intensify",
+    "example": "the rain began to abate by noon."
+  },
+  {
+    "id": 2,
+    "word": "abdicate",
+    "synonym": "relinquish",
+    "antonym": "assume",
+    "example": "The king chose to abdicate the throne."
+  },
+  {
+    "id": 3,
+    "word": "aberration",
+    "synonym": "deviation",
+    "antonym": "normality",
+    "example": "the low score was an aberration for her."
+  },
+  {
+    "id": 4,
+    "word": "abhor",
+    "synonym": "detest",
+    "antonym": "admire",
+    "example": "they abhor cruelty to animals."
+  },
+  {
+    "id": 5,
+    "word": "abide",
+    "synonym": "endure",
+    "antonym": "resist",
+    "example": "good citizens abide by the law."
+  },
+  {
+    "id": 6,
+    "word": "abrasive",
+    "synonym": "harsh",
+    "antonym": "gentle",
+    "example": "His abrasive manner often offended his coworkers."
+  },
+  {
+    "id": 7,
+    "word": "abstain",
+    "synonym": "refrain",
+    "antonym": "indulge",
+    "example": "he chose to abstain from the debate."
+  },
+  {
+    "id": 8,
+    "word": "abstruse",
+    "synonym": "obscure",
+    "antonym": "clear",
+    "example": "the article was so abstruse that few students understood it."
+  },
+  {
+    "id": 9,
+    "word": "abundance",
+    "synonym": "plenty",
+    "antonym": "scarcity",
+    "example": "the garden produced an abundance of tomatoes."
+  },
+  {
+    "id": 10,
+    "word": "abundant",
+    "synonym": "plentiful",
+    "antonym": "scarce",
+    "example": "wildflowers were abundant in the field."
+  },
+  {
+    "id": 11,
+    "word": "acclaim",
+    "synonym": "praise",
+    "antonym": "criticism",
+    "example": "the young author won acclaim for her novel."
+  },
+  {
+    "id": 12,
+    "word": "acrid",
+    "synonym": "pungent",
+    "antonym": "sweet",
+    "example": "acrid smoke filled the hallway."
+  },
+  {
+    "id": 13,
+    "word": "adept",
+    "synonym": "skillful",
+    "antonym": "clumsy",
+    "example": "she is adept at solving logic puzzles."
+  },
+  {
+    "id": 14,
+    "word": "adhere",
+    "synonym": "stick",
+    "antonym": "abandon",
+    "example": "Please adhere to the safety guidelines at all times."
+  },
+  {
+    "id": 15,
+    "word": "admonish",
+    "synonym": "reprimand",
+    "antonym": "praise",
+    "example": "The coach admonished the players for arriving late."
+  },
+  {
+    "id": 16,
+    "word": "aesthetic",
+    "synonym": "artistic",
+    "antonym": "unattractive",
+    "example": "the museum has a strong aesthetic appeal."
+  },
+  {
+    "id": 17,
+    "word": "affable",
+    "synonym": "friendly",
+    "antonym": "aloof",
+    "example": "our affable host welcomed everyone warmly."
+  },
+  {
+    "id": 18,
+    "word": "aggravate",
+    "synonym": "worsen",
+    "antonym": "soothe",
+    "example": "scratching the bite will only aggravate it."
+  },
+  {
+    "id": 19,
+    "word": "agile",
+    "synonym": "nimble",
+    "antonym": "awkward",
+    "example": "the agile cat leaped onto the fence."
+  },
+  {
+    "id": 20,
+    "word": "ail",
+    "synonym": "afflict",
+    "antonym": "heal",
+    "example": "the doctor tried to determine what was ailing the patient."
+  },
+  {
+    "id": 21,
+    "word": "alacrity",
+    "synonym": "eagerness",
+    "antonym": "reluctance",
+    "example": "she accepted the invitation with alacrity."
+  },
+  {
+    "id": 22,
+    "word": "allegation",
+    "synonym": "accusation",
+    "antonym": "proof",
+    "example": "the allegation was serious but not yet proven."
+  },
+  {
+    "id": 23,
+    "word": "alleviate",
+    "synonym": "relieve",
+    "antonym": "worsen",
+    "example": "cold water can alleviate the pain."
+  },
+  {
+    "id": 24,
+    "word": "allot",
+    "synonym": "allocate",
+    "antonym": "withhold",
+    "example": "The committee will allot funds to each department."
+  },
+  {
+    "id": 25,
+    "word": "aloof",
+    "synonym": "distant",
+    "antonym": "friendly",
+    "example": "she remained aloof and did not join the conversation."
+  },
+  {
+    "id": 26,
+    "word": "ambiguous",
+    "synonym": "unclear",
+    "antonym": "explicit",
+    "example": "the ambiguous instructions could be interpreted in several ways."
+  },
+  {
+    "id": 27,
+    "word": "amiable",
+    "synonym": "pleasant",
+    "antonym": "hostile",
+    "example": "the amiable teacher made the class feel comfortable."
+  },
+  {
+    "id": 28,
+    "word": "ample",
+    "synonym": "plentiful",
+    "antonym": "insufficient",
+    "example": "we had ample time to finish the project."
+  },
+  {
+    "id": 29,
+    "word": "anachronistic",
+    "synonym": "outdated",
+    "antonym": "modern",
+    "example": "the knight in a wristwatch looked anachronistic."
+  },
+  {
+    "id": 30,
+    "word": "anomaly",
+    "synonym": "irregularity",
+    "antonym": "pattern",
+    "example": "the sudden drop in sales was an anomaly."
+  },
+  {
+    "id": 31,
+    "word": "anticipate",
+    "synonym": "expect",
+    "antonym": "doubt",
+    "example": "we anticipate heavy traffic before the game."
+  },
+  {
+    "id": 32,
+    "word": "apathetic",
+    "synonym": "indifferent",
+    "antonym": "enthusiastic",
+    "example": "he seemed apathetic about joining the club."
+  },
+  {
+    "id": 33,
+    "word": "appease",
+    "synonym": "pacify",
+    "antonym": "provoke",
+    "example": "they offered an apology to appease the crowd."
+  },
+  {
+    "id": 34,
+    "word": "apprehension",
+    "synonym": "anxiety",
+    "antonym": "confidence",
+    "example": "she felt apprehension before the audition."
+  },
+  {
+    "id": 35,
+    "word": "arduous",
+    "synonym": "strenuous",
+    "antonym": "easy",
+    "example": "climbing the peak was an arduous task."
+  },
+  {
+    "id": 36,
+    "word": "arid",
+    "synonym": "dry",
+    "antonym": "moist",
+    "example": "few plants grow in the arid desert."
+  },
+  {
+    "id": 37,
+    "word": "aroma",
+    "synonym": "fragrance",
+    "antonym": "stench",
+    "example": "the aroma of fresh bread spread through the kitchen."
+  },
+  {
+    "id": 38,
+    "word": "articulate",
+    "synonym": "eloquent",
+    "antonym": "inarticulate",
+    "example": "the senator gave an articulate response."
+  },
+  {
+    "id": 39,
+    "word": "asphyxiate",
+    "synonym": "suffocate",
+    "antonym": "revive",
+    "example": "the smoke could asphyxiate anyone trapped inside."
+  },
+  {
+    "id": 40,
+    "word": "assert",
+    "synonym": "declare",
+    "antonym": "deny",
+    "example": "she did not hesitate to assert her opinion."
+  },
+  {
+    "id": 41,
+    "word": "astound",
+    "synonym": "amaze",
+    "antonym": "bore",
+    "example": "the magician managed to astound the audience."
+  },
+  {
+    "id": 42,
+    "word": "astute",
+    "synonym": "shrewd",
+    "antonym": "naive",
+    "example": "the astute investor noticed the trend early."
+  },
+  {
+    "id": 43,
+    "word": "atrocious",
+    "synonym": "terrible",
+    "antonym": "excellent",
+    "example": "the weather was atrocious all weekend."
+  },
+  {
+    "id": 44,
+    "word": "austere",
+    "synonym": "severe",
+    "antonym": "luxurious",
+    "example": "the cabin was austere but clean."
+  },
+  {
+    "id": 45,
+    "word": "behest",
+    "synonym": "command",
+    "antonym": "request",
+    "example": "he acted at the behest of his manager."
+  },
+  {
+    "id": 46,
+    "word": "behoove",
+    "synonym": "benefit",
+    "antonym": "harm",
+    "example": "it would behoove you to read the instructions first."
+  },
+  {
+    "id": 47,
+    "word": "belittled",
+    "synonym": "demeaned",
+    "antonym": "praised",
+    "example": "he felt belittled by the rude remark."
+  },
+  {
+    "id": 48,
+    "word": "bellicose",
+    "synonym": "aggressive",
+    "antonym": "peaceful",
+    "example": "the bellicose leader threatened his neighbors."
+  },
+  {
+    "id": 49,
+    "word": "bellow",
+    "synonym": "roar",
+    "antonym": "whisper",
+    "example": "the coach bellowed instructions across the field."
+  },
+  {
+    "id": 50,
+    "word": "benevolent",
+    "synonym": "kind",
+    "antonym": "cruel",
+    "example": "a benevolent donor funded the library."
+  },
+  {
+    "id": 51,
+    "word": "benign",
+    "synonym": "harmless",
+    "antonym": "malignant",
+    "example": "The doctor assured her that the tumor was benign."
+  },
+  {
+    "id": 52,
+    "word": "besotted",
+    "synonym": "infatuated",
+    "antonym": "indifferent",
+    "example": "he was besotted with the actress and talked about her constantly."
+  },
+  {
+    "id": 53,
+    "word": "bolster",
+    "synonym": "strengthen",
+    "antonym": "undermine",
+    "example": "the good review helped bolster her confidence."
+  },
+  {
+    "id": 54,
+    "word": "bout",
+    "synonym": "spell",
+    "antonym": "permanence",
+    "example": "she returned to school after a brief bout of illness."
+  },
+  {
+    "id": 55,
+    "word": "buffer",
+    "synonym": "cushion",
+    "antonym": "expose",
+    "example": "the trees provide a buffer between the houses and the noisy highway."
+  },
+  {
+    "id": 56,
+    "word": "cacophony",
+    "synonym": "din",
+    "antonym": "harmony",
+    "example": "a cacophony of horns echoed downtown."
+  },
+  {
+    "id": 57,
+    "word": "candid",
+    "synonym": "frank",
+    "antonym": "guarded",
+    "example": "her candid answer surprised the panel."
+  },
+  {
+    "id": 58,
+    "word": "canonical",
+    "synonym": "standard",
+    "antonym": "unofficial",
+    "example": "the professor assigned the canonical text."
+  },
+  {
+    "id": 59,
+    "word": "capricious",
+    "synonym": "fickle",
+    "antonym": "consistent",
+    "example": "the capricious weather changed by the hour."
+  },
+  {
+    "id": 60,
+    "word": "cathartic",
+    "synonym": "cleansing",
+    "antonym": "stifling",
+    "example": "writing about the experience was deeply cathartic."
+  },
+  {
+    "id": 61,
+    "word": "caveat",
+    "synonym": "warning",
+    "antonym": "assurance",
+    "example": "he offered a caveat before agreeing to the plan."
+  },
+  {
+    "id": 62,
+    "word": "chide",
+    "synonym": "scold",
+    "antonym": "praise",
+    "example": "the teacher chided the students for talking during the exam."
+  },
+  {
+    "id": 63,
+    "word": "circumspect",
+    "synonym": "cautious",
+    "antonym": "reckless",
+    "example": "be circumspect when sharing personal information online."
+  },
+  {
+    "id": 64,
+    "word": "clandestine",
+    "synonym": "secret",
+    "antonym": "open",
+    "example": "they held a clandestine meeting after school."
+  },
+  {
+    "id": 65,
+    "word": "coerce",
+    "synonym": "compel",
+    "antonym": "persuade",
+    "example": "They tried to coerce him into signing the contract."
+  },
+  {
+    "id": 66,
+    "word": "coherent",
+    "synonym": "logical",
+    "antonym": "confused",
+    "example": "his explanation was clear and coherent."
+  },
+  {
+    "id": 67,
+    "word": "commemorate",
+    "synonym": "honor",
+    "antonym": "ignore",
+    "example": "The town gathered to commemorate the veterans' service."
+  },
+  {
+    "id": 68,
+    "word": "complacent",
+    "synonym": "self-satisfied",
+    "antonym": "vigilant",
+    "example": "the team grew complacent after its early lead."
+  },
+  {
+    "id": 69,
+    "word": "compromise",
+    "synonym": "settlement",
+    "antonym": "intransigence",
+    "example": "both sides made a compromise to end the dispute."
+  },
+  {
+    "id": 70,
+    "word": "conceit",
+    "synonym": "vanity",
+    "antonym": "humility",
+    "example": "his conceit made him hard to work with."
+  },
+  {
+    "id": 71,
+    "word": "conceited",
+    "synonym": "vain",
+    "antonym": "modest",
+    "example": "the conceited actor expected constant praise."
+  },
+  {
+    "id": 72,
+    "word": "concise",
+    "synonym": "brief",
+    "antonym": "verbose",
+    "example": "Her explanation was clear and concise."
+  },
+  {
+    "id": 73,
+    "word": "concur",
+    "synonym": "agree",
+    "antonym": "disagree",
+    "example": "the judges concurred on the final choice."
+  },
+  {
+    "id": 74,
+    "word": "condemn",
+    "synonym": "censure",
+    "antonym": "praise",
+    "example": "the committee condemned the unsafe practices."
+  },
+  {
+    "id": 75,
+    "word": "conform",
+    "synonym": "comply",
+    "antonym": "defy",
+    "example": "students must conform to the safety rules."
+  },
+  {
+    "id": 76,
+    "word": "conjecture",
+    "synonym": "speculate",
+    "antonym": "certainty",
+    "example": "Historians can only conjecture about what happened."
+  },
+  {
+    "id": 77,
+    "word": "conservative",
+    "synonym": "cautious",
+    "antonym": "radical",
+    "example": "she took a conservative approach to investing."
+  },
+  {
+    "id": 78,
+    "word": "conspicuous",
+    "synonym": "noticeable",
+    "antonym": "hidden",
+    "example": "the bright umbrella was conspicuous in the crowd."
+  },
+  {
+    "id": 79,
+    "word": "contempt",
+    "synonym": "scorn",
+    "antonym": "respect",
+    "example": "she looked at the fraud with contempt."
+  },
+  {
+    "id": 80,
+    "word": "copious",
+    "synonym": "abundant",
+    "antonym": "meager",
+    "example": "copious notes covered his desk."
+  },
+  {
+    "id": 81,
+    "word": "cordial",
+    "synonym": "friendly",
+    "antonym": "hostile",
+    "example": "despite their disagreement the two leaders remained cordial."
+  },
+  {
+    "id": 82,
+    "word": "corrugate",
+    "synonym": "wrinkle",
+    "antonym": "smooth",
+    "example": "the machine corrugates the cardboard to make it stronger."
+  },
+  {
+    "id": 83,
+    "word": "credible",
+    "synonym": "believable",
+    "antonym": "dubious",
+    "example": "the witness gave a credible account."
+  },
+  {
+    "id": 84,
+    "word": "cursory",
+    "synonym": "hasty",
+    "antonym": "thorough",
+    "example": "the inspector gave the room a cursory glance."
+  },
+  {
+    "id": 85,
+    "word": "deference",
+    "synonym": "respect",
+    "antonym": "disrespect",
+    "example": "out of deference to her coach, she stayed quiet."
+  },
+  {
+    "id": 86,
+    "word": "deficient",
+    "synonym": "lacking",
+    "antonym": "adequate",
+    "example": "the report was deficient in evidence."
+  },
+  {
+    "id": 87,
+    "word": "demur",
+    "synonym": "object",
+    "antonym": "consent",
+    "example": "she did not demur when asked to help."
+  },
+  {
+    "id": 88,
+    "word": "demure",
+    "synonym": "modest",
+    "antonym": "bold",
+    "example": "she gave a demure smile before accepting the award."
+  },
+  {
+    "id": 89,
+    "word": "denounce",
+    "synonym": "condemn",
+    "antonym": "endorse",
+    "example": "the mayor denounced the acts of vandalism."
+  },
+  {
+    "id": 90,
+    "word": "deplete",
+    "synonym": "exhaust",
+    "antonym": "replenish",
+    "example": "the long drought depleted the town's water supply."
+  },
+  {
+    "id": 91,
+    "word": "derivative",
+    "synonym": "unoriginal",
+    "antonym": "innovative",
+    "example": "critics called the sequel derivative."
+  },
+  {
+    "id": 92,
+    "word": "despondent",
+    "synonym": "hopeless",
+    "antonym": "hopeful",
+    "example": "he felt despondent after the loss."
+  },
+  {
+    "id": 93,
+    "word": "destitute",
+    "synonym": "impoverished",
+    "antonym": "affluent",
+    "example": "the charity provides food and shelter to destitute families."
+  },
+  {
+    "id": 94,
+    "word": "detrimental",
+    "synonym": "harmful",
+    "antonym": "beneficial",
+    "example": "too little sleep is detrimental to learning."
+  },
+  {
+    "id": 95,
+    "word": "dexterity",
+    "synonym": "skill",
+    "antonym": "clumsiness",
+    "example": "the surgeon's dexterity impressed everyone in the operating room."
+  },
+  {
+    "id": 96,
+    "word": "didactic",
+    "synonym": "instructive",
+    "antonym": "uninformative",
+    "example": "the story was entertaining without becoming too didactic."
+  },
+  {
+    "id": 97,
+    "word": "dilapidated",
+    "synonym": "rundown",
+    "antonym": "well-maintained",
+    "example": "the dilapidated house had broken windows and a leaking roof."
+  },
+  {
+    "id": 98,
+    "word": "diligent",
+    "synonym": "industrious",
+    "antonym": "lazy",
+    "example": "the diligent student reviewed her notes nightly."
+  },
+  {
+    "id": 99,
+    "word": "discreet",
+    "synonym": "tactful",
+    "antonym": "indiscreet",
+    "example": "please be discreet when discussing the surprise."
+  },
+  {
+    "id": 100,
+    "word": "disheveled",
+    "synonym": "rumpled",
+    "antonym": "neat",
+    "example": "he arrived with disheveled hair and a wrinkled shirt."
+  },
+  {
+    "id": 101,
+    "word": "dismal",
+    "synonym": "gloomy",
+    "antonym": "cheerful",
+    "example": "The team endured a dismal season with few victories."
+  },
+  {
+    "id": 102,
+    "word": "diverge",
+    "synonym": "separate",
+    "antonym": "converge",
+    "example": "the two roads diverge near the river."
+  },
+  {
+    "id": 103,
+    "word": "divert",
+    "synonym": "redirect",
+    "antonym": "focus",
+    "example": "guards tried to divert traffic from the accident."
+  },
+  {
+    "id": 104,
+    "word": "eccentric",
+    "synonym": "unconventional",
+    "antonym": "ordinary",
+    "example": "the eccentric inventor wore mismatched shoes."
+  },
+  {
+    "id": 105,
+    "word": "elaborate",
+    "synonym": "intricate",
+    "antonym": "simple",
+    "example": "the architect presented an elaborate design for the new theater."
+  },
+  {
+    "id": 106,
+    "word": "elated",
+    "synonym": "joyful",
+    "antonym": "dejected",
+    "example": "she was elated after hearing the good news."
+  },
+  {
+    "id": 107,
+    "word": "elusive",
+    "synonym": "hard to grasp",
+    "antonym": "obvious",
+    "example": "a perfect solution remained elusive."
+  },
+  {
+    "id": 108,
+    "word": "embargo",
+    "synonym": "ban",
+    "antonym": "permission",
+    "example": "the government imposed an embargo on trade with the country."
+  },
+  {
+    "id": 109,
+    "word": "embattled",
+    "synonym": "beleaguered",
+    "antonym": "untroubled",
+    "example": "the embattled leader faced criticism."
+  },
+  {
+    "id": 110,
+    "word": "emphatic",
+    "synonym": "forceful",
+    "antonym": "hesitant",
+    "example": "her emphatic no ended the discussion."
+  },
+  {
+    "id": 111,
+    "word": "emulate",
+    "synonym": "imitate",
+    "antonym": "ignore",
+    "example": "young players often emulate their heroes."
+  },
+  {
+    "id": 112,
+    "word": "endeavor",
+    "synonym": "attempt",
+    "antonym": "idleness",
+    "example": "the scientists worked together in an endeavor to find a cure."
+  },
+  {
+    "id": 113,
+    "word": "enervate",
+    "synonym": "weaken",
+    "antonym": "energize",
+    "example": "the long heat wave began to enervate the hikers."
+  },
+  {
+    "id": 114,
+    "word": "enhance",
+    "synonym": "improve",
+    "antonym": "diminish",
+    "example": "fresh herbs can enhance the flavor of soup."
+  },
+  {
+    "id": 115,
+    "word": "epiphany",
+    "synonym": "realization",
+    "antonym": "confusion",
+    "example": "during the walk, she had an epiphany about her project."
+  },
+  {
+    "id": 116,
+    "word": "equanimity",
+    "synonym": "composure",
+    "antonym": "agitation",
+    "example": "she faced the criticism with remarkable equanimity."
+  },
+  {
+    "id": 117,
+    "word": "equivocate",
+    "synonym": "prevaricate",
+    "antonym": "state plainly",
+    "example": "the witness tried to equivocate under pressure."
+  },
+  {
+    "id": 118,
+    "word": "erratic",
+    "synonym": "unpredictable",
+    "antonym": "steady",
+    "example": "the puppy made erratic movements across the yard."
+  },
+  {
+    "id": 119,
+    "word": "exacerbate",
+    "synonym": "worsen",
+    "antonym": "alleviate",
+    "example": "the delay will only exacerbate the problem."
+  },
+  {
+    "id": 120,
+    "word": "exalt",
+    "synonym": "glorify",
+    "antonym": "disparage",
+    "example": "the poem exalts courage and self-sacrifice."
+  },
+  {
+    "id": 121,
+    "word": "exasperate",
+    "synonym": "irritate",
+    "antonym": "soothe",
+    "example": "his constant interruptions began to exasperate the teacher."
+  },
+  {
+    "id": 122,
+    "word": "exemplary",
+    "synonym": "outstanding",
+    "antonym": "poor",
+    "example": "her exemplary conduct earned a reward."
+  },
+  {
+    "id": 123,
+    "word": "exhaustive",
+    "synonym": "comprehensive",
+    "antonym": "superficial",
+    "example": "the detective conducted an exhaustive investigation of the case."
+  },
+  {
+    "id": 124,
+    "word": "expedient",
+    "synonym": "practical",
+    "antonym": "impractical",
+    "example": "taking a shortcut was expedient"
+  },
+  {
+    "id": 125,
+    "word": "exquisite",
+    "synonym": "superb",
+    "antonym": "mediocre",
+    "example": "the museum displayed an exquisite porcelain vase."
+  },
+  {
+    "id": 126,
+    "word": "exuberant",
+    "synonym": "enthusiastic",
+    "antonym": "restrained",
+    "example": "the children were exuberant after hearing the good news."
+  },
+  {
+    "id": 127,
+    "word": "fastidious",
+    "synonym": "particular",
+    "antonym": "careless",
+    "example": "he is fastidious about keeping his desk clean."
+  },
+  {
+    "id": 128,
+    "word": "feasible",
+    "synonym": "practical",
+    "antonym": "impossible",
+    "example": "the engineers found a feasible solution."
+  },
+  {
+    "id": 129,
+    "word": "feeble",
+    "synonym": "weak",
+    "antonym": "strong",
+    "example": "after the illness, he felt feeble."
+  },
+  {
+    "id": 130,
+    "word": "feud",
+    "synonym": "conflict",
+    "antonym": "harmony",
+    "example": "the neighboring families ended their long feud."
+  },
+  {
+    "id": 131,
+    "word": "flagrant",
+    "synonym": "blatant",
+    "antonym": "subtle",
+    "example": "it was a flagrant violation of the rules."
+  },
+  {
+    "id": 132,
+    "word": "flourish",
+    "synonym": "prosper",
+    "antonym": "decline",
+    "example": "with proper care, the seedlings will flourish."
+  },
+  {
+    "id": 133,
+    "word": "focal",
+    "synonym": "central",
+    "antonym": "peripheral",
+    "example": "the interview focused on the focal issue of education."
+  },
+  {
+    "id": 134,
+    "word": "foist",
+    "synonym": "impose",
+    "antonym": "withhold",
+    "example": "he tried to foist his unwanted responsibilities onto his colleague."
+  },
+  {
+    "id": 135,
+    "word": "forlorn",
+    "synonym": "desolate",
+    "antonym": "hopeful",
+    "example": "The abandoned puppy looked forlorn."
+  },
+  {
+    "id": 136,
+    "word": "frugal",
+    "synonym": "thrifty",
+    "antonym": "extravagant",
+    "example": "a frugal shopper compares prices first."
+  },
+  {
+    "id": 137,
+    "word": "furtive",
+    "synonym": "secretive",
+    "antonym": "open",
+    "example": "he cast a furtive glance at the answer key."
+  },
+  {
+    "id": 138,
+    "word": "garrulous",
+    "synonym": "talkative",
+    "antonym": "reserved",
+    "example": "the garrulous barber told stories all morning."
+  },
+  {
+    "id": 139,
+    "word": "gauche",
+    "synonym": "awkward",
+    "antonym": "graceful",
+    "example": "he felt gauche at the formal dinner."
+  },
+  {
+    "id": 140,
+    "word": "gist",
+    "synonym": "essence",
+    "antonym": "detail",
+    "example": "i understood the gist of the lecture even though i missed a few points."
+  },
+  {
+    "id": 141,
+    "word": "gossamer",
+    "synonym": "delicate",
+    "antonym": "coarse",
+    "example": "the butterfly’s wings were thin and gossamer."
+  },
+  {
+    "id": 142,
+    "word": "gouge",
+    "synonym": "scoop out",
+    "antonym": "fill",
+    "example": "the sharp rock gouged a deep mark in the car door."
+  },
+  {
+    "id": 143,
+    "word": "hail",
+    "synonym": "acclaim",
+    "antonym": "condemn",
+    "example": "critics hailed the young author as a remarkable new talent."
+  },
+  {
+    "id": 144,
+    "word": "hallowed",
+    "synonym": "sacred",
+    "antonym": "ordinary",
+    "example": "they visited the hallowed memorial site."
+  },
+  {
+    "id": 145,
+    "word": "haphazard",
+    "synonym": "disorderly",
+    "antonym": "systematic",
+    "example": "the books were stacked in a haphazard pile on the floor."
+  },
+  {
+    "id": 146,
+    "word": "hapless",
+    "synonym": "unfortunate",
+    "antonym": "fortunate",
+    "example": "the hapless traveler missed his flight and lost his luggage."
+  },
+  {
+    "id": 147,
+    "word": "harbinger",
+    "synonym": "forerunner",
+    "antonym": "aftermath",
+    "example": "the first robin is often considered a harbinger of spring."
+  },
+  {
+    "id": 148,
+    "word": "harrowing",
+    "synonym": "distressing",
+    "antonym": "comforting",
+    "example": "the movie told a harrowing story of survival."
+  },
+  {
+    "id": 149,
+    "word": "hasty",
+    "synonym": "rash",
+    "antonym": "deliberate",
+    "example": "a hasty decision can cause problems later."
+  },
+  {
+    "id": 150,
+    "word": "haughty",
+    "synonym": "arrogant",
+    "antonym": "humble",
+    "example": "the haughty nobleman considered himself superior to everyone else."
+  },
+  {
+    "id": 151,
+    "word": "hiatus",
+    "synonym": "break",
+    "antonym": "continuation",
+    "example": "the magazine returned after a two-year hiatus."
+  },
+  {
+    "id": 152,
+    "word": "hinder",
+    "synonym": "impede",
+    "antonym": "assist",
+    "example": "fog can hinder travel."
+  },
+  {
+    "id": 153,
+    "word": "hunker",
+    "synonym": "crouch",
+    "antonym": "stand upright",
+    "example": "the campers hunkered down in their tents during the storm."
+  },
+  {
+    "id": 154,
+    "word": "iconoclast",
+    "synonym": "rebel",
+    "antonym": "traditionalist",
+    "example": "the iconoclast challenged long-held beliefs."
+  },
+  {
+    "id": 155,
+    "word": "idle",
+    "synonym": "inactive",
+    "antonym": "busy",
+    "example": "the factory remained idle while the machines were being repaired."
+  },
+  {
+    "id": 156,
+    "word": "idyllic",
+    "synonym": "peaceful",
+    "antonym": "chaotic",
+    "example": "they spent an idyllic summer by the lake."
+  },
+  {
+    "id": 157,
+    "word": "immaculate",
+    "synonym": "spotless",
+    "antonym": "filthy",
+    "example": "the kitchen was immaculate after she cleaned it."
+  },
+  {
+    "id": 158,
+    "word": "impartial",
+    "synonym": "fair",
+    "antonym": "biased",
+    "example": "a judge must remain impartial."
+  },
+  {
+    "id": 159,
+    "word": "impeccable",
+    "synonym": "flawless",
+    "antonym": "faulty",
+    "example": "she has impeccable manners."
+  },
+  {
+    "id": 160,
+    "word": "impede",
+    "synonym": "obstruct",
+    "antonym": "facilitate",
+    "example": "fallen branches impede the path."
+  },
+  {
+    "id": 161,
+    "word": "inconsequential",
+    "synonym": "trivial",
+    "antonym": "important",
+    "example": "the error was inconsequential and easy to fix."
+  },
+  {
+    "id": 162,
+    "word": "indifferent",
+    "synonym": "unconcerned",
+    "antonym": "interested",
+    "example": "he seemed indifferent to the outcome."
+  },
+  {
+    "id": 163,
+    "word": "indolent",
+    "synonym": "lazy",
+    "antonym": "industrious",
+    "example": "the indolent student rarely finished his homework."
+  },
+  {
+    "id": 164,
+    "word": "inept",
+    "synonym": "clumsy",
+    "antonym": "competent",
+    "example": "the inept waiter spilled water twice."
+  },
+  {
+    "id": 165,
+    "word": "inevitable",
+    "synonym": "unavoidable",
+    "antonym": "preventable",
+    "example": "after dark clouds gathered, rain seemed inevitable."
+  },
+  {
+    "id": 166,
+    "word": "ingenious",
+    "synonym": "inventive",
+    "antonym": "unimaginative",
+    "example": "she built an ingenious device from spare parts."
+  },
+  {
+    "id": 167,
+    "word": "inherit",
+    "synonym": "receive",
+    "antonym": "forfeit",
+    "example": "he will inherit his grandfather's watch."
+  },
+  {
+    "id": 168,
+    "word": "inhibit",
+    "synonym": "restrain",
+    "antonym": "encourage",
+    "example": "fear can inhibit creativity."
+  },
+  {
+    "id": 169,
+    "word": "initiate",
+    "synonym": "begin",
+    "antonym": "end",
+    "example": "they will initiate the experiment tomorrow."
+  },
+  {
+    "id": 170,
+    "word": "innovate",
+    "synonym": "create",
+    "antonym": "stagnate",
+    "example": "small companies often innovate quickly."
+  },
+  {
+    "id": 171,
+    "word": "insidious",
+    "synonym": "stealthy",
+    "antonym": "obvious",
+    "example": "the disease had an insidious onset."
+  },
+  {
+    "id": 172,
+    "word": "insipid",
+    "synonym": "dull",
+    "antonym": "stimulating",
+    "example": "the lecture was so insipid that students yawned."
+  },
+  {
+    "id": 173,
+    "word": "insolent",
+    "synonym": "disrespectful",
+    "antonym": "respectful",
+    "example": "the insolent student spoke rudely to his teacher."
+  },
+  {
+    "id": 174,
+    "word": "instance",
+    "synonym": "example",
+    "antonym": "counterexample",
+    "example": "for instance, a whale is a mammal."
+  },
+  {
+    "id": 175,
+    "word": "integrate",
+    "synonym": "combine",
+    "antonym": "separate",
+    "example": "the program helps new students integrate into the school."
+  },
+  {
+    "id": 176,
+    "word": "intellectual",
+    "synonym": "scholarly",
+    "antonym": "unthinking",
+    "example": "the debate attracted an intellectual crowd."
+  },
+  {
+    "id": 177,
+    "word": "intense",
+    "synonym": "extreme",
+    "antonym": "mild",
+    "example": "the intense heat kept everyone indoors."
+  },
+  {
+    "id": 178,
+    "word": "interact",
+    "synonym": "engage",
+    "antonym": "avoid",
+    "example": "students interact during group work."
+  },
+  {
+    "id": 179,
+    "word": "interpret",
+    "synonym": "explain",
+    "antonym": "misread",
+    "example": "how do you interpret this poem?"
+  },
+  {
+    "id": 180,
+    "word": "intervene",
+    "synonym": "intercede",
+    "antonym": "ignore",
+    "example": "teachers may intervene when conflict arises."
+  },
+  {
+    "id": 181,
+    "word": "intransigent",
+    "synonym": "unyielding",
+    "antonym": "flexible",
+    "example": "the intransigent manager refused all compromise."
+  },
+  {
+    "id": 182,
+    "word": "intrepid",
+    "synonym": "fearless",
+    "antonym": "timid",
+    "example": "the intrepid climber reached the summit first."
+  },
+  {
+    "id": 183,
+    "word": "intricate",
+    "synonym": "complex",
+    "antonym": "simple",
+    "example": "the watch contained an intricate arrangement of gears."
+  },
+  {
+    "id": 184,
+    "word": "intriguing",
+    "synonym": "fascinating",
+    "antonym": "boring",
+    "example": "the mystery novel had an intriguing opening."
+  },
+  {
+    "id": 185,
+    "word": "irate",
+    "synonym": "furious",
+    "antonym": "calm",
+    "example": "The customer was irate after receiving the wrong order."
+  },
+  {
+    "id": 186,
+    "word": "isolate",
+    "synonym": "separate",
+    "antonym": "connect",
+    "example": "the lab can isolate the chemical safely."
+  },
+  {
+    "id": 187,
+    "word": "jovial",
+    "synonym": "cheerful",
+    "antonym": "gloomy",
+    "example": "his jovial laugh filled the room."
+  },
+  {
+    "id": 188,
+    "word": "jubilee",
+    "synonym": "celebration",
+    "antonym": "mourning",
+    "example": "the town held a jubilee for its centennial."
+  },
+  {
+    "id": 189,
+    "word": "judicious",
+    "synonym": "wise",
+    "antonym": "foolish",
+    "example": "a judicious choice now can save time later."
+  },
+  {
+    "id": 190,
+    "word": "keen",
+    "synonym": "eager",
+    "antonym": "apathetic",
+    "example": "she has a keen interest in astronomy."
+  },
+  {
+    "id": 191,
+    "word": "labile",
+    "synonym": "unstable",
+    "antonym": "stable",
+    "example": "his mood remained labile throughout the day."
+  },
+  {
+    "id": 192,
+    "word": "laconic",
+    "synonym": "brief",
+    "antonym": "wordy",
+    "example": "his laconic reply ended the conversation."
+  },
+  {
+    "id": 193,
+    "word": "languish",
+    "synonym": "deteriorate",
+    "antonym": "flourish",
+    "example": "without funding, the project began to languish."
+  },
+  {
+    "id": 194,
+    "word": "lavish",
+    "synonym": "extravagant",
+    "antonym": "meager",
+    "example": "they hosted a lavish banquet."
+  },
+  {
+    "id": 195,
+    "word": "leeway",
+    "synonym": "flexibility",
+    "antonym": "restriction",
+    "example": "The teacher gave us some leeway in choosing our project topics."
+  },
+  {
+    "id": 196,
+    "word": "lenient",
+    "synonym": "merciful",
+    "antonym": "strict",
+    "example": "the lenient coach allowed one more chance."
+  },
+  {
+    "id": 197,
+    "word": "lethargic",
+    "synonym": "sluggish",
+    "antonym": "energetic",
+    "example": "after staying up too late he felt lethargic all morning."
+  },
+  {
+    "id": 198,
+    "word": "liminal",
+    "synonym": "transitional",
+    "antonym": "permanent",
+    "example": "graduation marks a liminal stage between school and adulthood."
+  },
+  {
+    "id": 199,
+    "word": "lingo",
+    "synonym": "jargon",
+    "antonym": "standard language",
+    "example": "it took him a while to understand the technical lingo used by the engineers."
+  },
+  {
+    "id": 200,
+    "word": "loath",
+    "synonym": "reluctant",
+    "antonym": "eager",
+    "example": "i am loath to criticize someone without knowing the facts."
+  },
+  {
+    "id": 201,
+    "word": "loathe",
+    "synonym": "detest",
+    "antonym": "cherish",
+    "example": "she loathes dishonesty."
+  },
+  {
+    "id": 202,
+    "word": "lobby",
+    "synonym": "advocate",
+    "antonym": "oppose",
+    "example": "environmental groups lobbied lawmakers for stricter pollution laws."
+  },
+  {
+    "id": 203,
+    "word": "lofty",
+    "synonym": "elevated",
+    "antonym": "humble",
+    "example": "she had lofty ambitions for her career."
+  },
+  {
+    "id": 204,
+    "word": "lucid",
+    "synonym": "clear",
+    "antonym": "confusing",
+    "example": "her lucid explanation helped everyone understand."
+  },
+  {
+    "id": 205,
+    "word": "magnanimous",
+    "synonym": "generous",
+    "antonym": "petty",
+    "example": "the magnanimous winner praised his opponent."
+  },
+  {
+    "id": 206,
+    "word": "mandate",
+    "synonym": "command",
+    "antonym": "suggestion",
+    "example": "the new law mandates that all passengers wear seat belts."
+  },
+  {
+    "id": 207,
+    "word": "maverick",
+    "synonym": "nonconformist",
+    "antonym": "conformist",
+    "example": "the scientist was a maverick who challenged conventional theories."
+  },
+  {
+    "id": 208,
+    "word": "meandering",
+    "synonym": "winding",
+    "antonym": "direct",
+    "example": "we followed the meandering trail through the woods."
+  },
+  {
+    "id": 209,
+    "word": "mediate",
+    "synonym": "reconcile",
+    "antonym": "inflame",
+    "example": "a counselor helped mediate the dispute."
+  },
+  {
+    "id": 210,
+    "word": "meek",
+    "synonym": "submissive",
+    "antonym": "assertive",
+    "example": "the meek student rarely spoke up during class discussions."
+  },
+  {
+    "id": 211,
+    "word": "mendacious",
+    "synonym": "dishonest",
+    "antonym": "truthful",
+    "example": "the mendacious salesman could not be trusted."
+  },
+  {
+    "id": 212,
+    "word": "mercurial",
+    "synonym": "temperamental",
+    "antonym": "stable",
+    "example": "her mercurial moods kept everyone guessing."
+  },
+  {
+    "id": 213,
+    "word": "meticulous",
+    "synonym": "careful",
+    "antonym": "sloppy",
+    "example": "the meticulous editor caught every typo."
+  },
+  {
+    "id": 214,
+    "word": "miry",
+    "synonym": "muddy",
+    "antonym": "dry",
+    "example": "the hikers struggled along the miry path after the heavy rain."
+  },
+  {
+    "id": 215,
+    "word": "miscellaneous",
+    "synonym": "assorted",
+    "antonym": "uniform",
+    "example": "the drawer contained miscellaneous items including keys, coins and batteries"
+  },
+  {
+    "id": 216,
+    "word": "mitigate",
+    "synonym": "lessen",
+    "antonym": "intensify",
+    "example": "trees help mitigate the summer heat."
+  },
+  {
+    "id": 217,
+    "word": "moderate",
+    "synonym": "temperate",
+    "antonym": "extreme",
+    "example": "the judge urged a moderate response."
+  },
+  {
+    "id": 218,
+    "word": "modify",
+    "synonym": "alter",
+    "antonym": "preserve",
+    "example": "we may need to modify the schedule."
+  },
+  {
+    "id": 219,
+    "word": "mollify",
+    "synonym": "soothe",
+    "antonym": "aggravate",
+    "example": "she tried to mollify the angry customer with an apology."
+  },
+  {
+    "id": 220,
+    "word": "moniker",
+    "synonym": "nickname",
+    "antonym": "given name",
+    "example": "the famous athlete earned the moniker \"the rocket\" because of his speed."
+  },
+  {
+    "id": 221,
+    "word": "monitor",
+    "synonym": "observe",
+    "antonym": "neglect",
+    "example": "nurses monitor the patient closely."
+  },
+  {
+    "id": 222,
+    "word": "moot",
+    "synonym": "irrelevant",
+    "antonym": "relevant",
+    "example": "his objection became moot once the problem had already been resolved."
+  },
+  {
+    "id": 223,
+    "word": "mutual",
+    "synonym": "shared",
+    "antonym": "one-sided",
+    "example": "their trust was mutual."
+  },
+  {
+    "id": 224,
+    "word": "myopic",
+    "synonym": "shortsighted",
+    "antonym": "farseeing",
+    "example": "a myopic plan ignores future costs."
+  },
+  {
+    "id": 225,
+    "word": "navigate",
+    "synonym": "steer",
+    "antonym": "wander",
+    "example": "we used a map to navigate the city."
+  },
+  {
+    "id": 226,
+    "word": "nefarious",
+    "synonym": "wicked",
+    "antonym": "honorable",
+    "example": "the villain carried out a nefarious scheme."
+  },
+  {
+    "id": 227,
+    "word": "negligent",
+    "synonym": "careless",
+    "antonym": "attentive",
+    "example": "the negligent driver caused the crash."
+  },
+  {
+    "id": 228,
+    "word": "ninny",
+    "synonym": "fool",
+    "antonym": "genius",
+    "example": "don't be such a ninny."
+  },
+  {
+    "id": 229,
+    "word": "nonchalant",
+    "synonym": "casual",
+    "antonym": "anxious",
+    "example": "she sounded nonchalant before the final exam."
+  },
+  {
+    "id": 230,
+    "word": "novice",
+    "synonym": "beginner",
+    "antonym": "expert",
+    "example": "the novice chess player studied basic openings."
+  },
+  {
+    "id": 231,
+    "word": "noxious",
+    "synonym": "harmful",
+    "antonym": "harmless",
+    "example": "the factory released noxious fumes into the air."
+  },
+  {
+    "id": 232,
+    "word": "obfuscate",
+    "synonym": "confuse",
+    "antonym": "clarify",
+    "example": "the speaker used jargon to obfuscate the issue."
+  },
+  {
+    "id": 233,
+    "word": "obscure",
+    "synonym": "unclear",
+    "antonym": "obvious",
+    "example": "the poem's meaning remained obscure."
+  },
+  {
+    "id": 234,
+    "word": "obsequious",
+    "synonym": "servile",
+    "antonym": "assertive",
+    "example": "the obsequious assistant agreed with everything."
+  },
+  {
+    "id": 235,
+    "word": "obsolete",
+    "synonym": "outdated",
+    "antonym": "current",
+    "example": "the old machine became obsolete."
+  },
+  {
+    "id": 236,
+    "word": "obstinate",
+    "synonym": "stubborn",
+    "antonym": "compliant",
+    "example": "the obstinate mule would not move."
+  },
+  {
+    "id": 237,
+    "word": "obstruct",
+    "synonym": "block",
+    "antonym": "clear",
+    "example": "a fallen tree can obstruct the road."
+  },
+  {
+    "id": 238,
+    "word": "omit",
+    "synonym": "exclude",
+    "antonym": "include",
+    "example": "Be careful not to omit any important details from your report."
+  },
+  {
+    "id": 239,
+    "word": "ooze",
+    "synonym": "seep",
+    "antonym": "dry up",
+    "example": "sap began to ooze from the bark."
+  },
+  {
+    "id": 240,
+    "word": "opportune",
+    "synonym": "timely",
+    "antonym": "untimely",
+    "example": "we waited for the opportune moment to speak."
+  },
+  {
+    "id": 241,
+    "word": "optimal",
+    "synonym": "best",
+    "antonym": "inferior",
+    "example": "the greenhouse keeps plants at an optimal temperature."
+  },
+  {
+    "id": 242,
+    "word": "optimize",
+    "synonym": "improve",
+    "antonym": "worsen",
+    "example": "engineers optimize the design for speed."
+  },
+  {
+    "id": 243,
+    "word": "orthodox",
+    "synonym": "conventional",
+    "antonym": "unconventional",
+    "example": "he preferred an orthodox approach to solving the problem."
+  },
+  {
+    "id": 244,
+    "word": "outcast",
+    "synonym": "exile",
+    "antonym": "insider",
+    "example": "after betraying the group, he was treated as an outcast."
+  },
+  {
+    "id": 245,
+    "word": "paradigm",
+    "synonym": "model",
+    "antonym": "anomaly",
+    "example": "the invention marked a new paradigm in communication technology."
+  },
+  {
+    "id": 246,
+    "word": "pellucid",
+    "synonym": "transparent",
+    "antonym": "opaque",
+    "example": "the stream was pellucid after the storm passed."
+  },
+  {
+    "id": 247,
+    "word": "perceive",
+    "synonym": "discern",
+    "antonym": "overlook",
+    "example": "bats perceive sounds humans cannot hear."
+  },
+  {
+    "id": 248,
+    "word": "perfidious",
+    "synonym": "treacherous",
+    "antonym": "loyal",
+    "example": "the perfidious spy betrayed his allies."
+  },
+  {
+    "id": 249,
+    "word": "perilous",
+    "synonym": "dangerous",
+    "antonym": "safe",
+    "example": "sailors avoided the perilous rocks."
+  },
+  {
+    "id": 250,
+    "word": "perspire",
+    "synonym": "sweat",
+    "antonym": "shiver",
+    "example": "athletes perspire during hard workouts."
+  },
+  {
+    "id": 251,
+    "word": "pioneer",
+    "synonym": "innovator",
+    "antonym": "follower",
+    "example": "she was a pioneer in the field of computer science."
+  },
+  {
+    "id": 252,
+    "word": "plausible",
+    "synonym": "credible",
+    "antonym": "unlikely",
+    "example": "her excuse sounded plausible at first."
+  },
+  {
+    "id": 253,
+    "word": "pragmatic",
+    "synonym": "practical",
+    "antonym": "idealistic",
+    "example": "we need a pragmatic plan, not wishful thinking."
+  },
+  {
+    "id": 254,
+    "word": "predominant",
+    "synonym": "main",
+    "antonym": "minor",
+    "example": "blue is the predominant color in the painting."
+  },
+  {
+    "id": 255,
+    "word": "pregnant",
+    "synonym": "meaningful",
+    "antonym": "insignificant",
+    "example": "his brief pause was pregnant with meaning."
+  },
+  {
+    "id": 256,
+    "word": "presume",
+    "synonym": "assume",
+    "antonym": "verify",
+    "example": "do not presume you know the answer."
+  },
+  {
+    "id": 257,
+    "word": "pretentious",
+    "synonym": "showy",
+    "antonym": "modest",
+    "example": "his pretentious speech annoyed the audience."
+  },
+  {
+    "id": 258,
+    "word": "prevail",
+    "synonym": "triumph",
+    "antonym": "fail",
+    "example": "despite the storm, hope prevailed."
+  },
+  {
+    "id": 259,
+    "word": "primer",
+    "synonym": "introductory text",
+    "antonym": "advanced treatise",
+    "example": "the student used a science primer to learn the basics."
+  },
+  {
+    "id": 260,
+    "word": "primitive",
+    "synonym": "rudimentary",
+    "antonym": "advanced",
+    "example": "people used primitive tools thousands of years ago."
+  },
+  {
+    "id": 261,
+    "word": "privy",
+    "synonym": "aware",
+    "antonym": "ignorant",
+    "example": "only a few insiders were privy to the plan."
+  },
+  {
+    "id": 262,
+    "word": "procrastinate",
+    "synonym": "delay",
+    "antonym": "act promptly",
+    "example": "she tends to procrastinate instead of finishing her work."
+  },
+  {
+    "id": 263,
+    "word": "prolific",
+    "synonym": "productive",
+    "antonym": "unfruitful",
+    "example": "the prolific author published three books in a year."
+  },
+  {
+    "id": 264,
+    "word": "prone (1)",
+    "synonym": "susceptible",
+    "antonym": "resistant",
+    "example": "she is prone to catching colds in winter."
+  },
+  {
+    "id": 265,
+    "word": "prone (2)",
+    "synonym": "lying face down",
+    "antonym": "upright",
+    "example": "he lay prone on the ground after tripping."
+  },
+  {
+    "id": 266,
+    "word": "proportionate",
+    "synonym": "proportional",
+    "antonym": "disproportionate",
+    "example": "the punishment should be proportionate to the offense."
+  },
+  {
+    "id": 267,
+    "word": "prosperity",
+    "synonym": "wealth",
+    "antonym": "poverty",
+    "example": "years of peace brought prosperity to the region."
+  },
+  {
+    "id": 268,
+    "word": "provisional",
+    "synonym": "temporary",
+    "antonym": "permanent",
+    "example": "the committee gave provisional approval to the proposal."
+  },
+  {
+    "id": 269,
+    "word": "provoke",
+    "synonym": "incite",
+    "antonym": "calm",
+    "example": "his rude joke may provoke an argument."
+  },
+  {
+    "id": 270,
+    "word": "prudent",
+    "synonym": "wise",
+    "antonym": "reckless",
+    "example": "it is prudent to save money for emergencies."
+  },
+  {
+    "id": 271,
+    "word": "pseudonym",
+    "synonym": "pen name",
+    "antonym": "real name",
+    "example": "the writer published under a pseudonym."
+  },
+  {
+    "id": 272,
+    "word": "quagmire",
+    "synonym": "predicament",
+    "antonym": "solution",
+    "example": "the company found itself in a financial quagmire."
+  },
+  {
+    "id": 273,
+    "word": "quaint",
+    "synonym": "charming",
+    "antonym": "modern",
+    "example": "we stayed in a quaint cottage by the lake."
+  },
+  {
+    "id": 274,
+    "word": "quarrel",
+    "synonym": "dispute",
+    "antonym": "agreement",
+    "example": "the siblings had a quarrel over the toy."
+  },
+  {
+    "id": 275,
+    "word": "quench",
+    "synonym": "extinguish",
+    "antonym": "ignite",
+    "example": "the rain helped quench the fire."
+  },
+  {
+    "id": 276,
+    "word": "quiproquo",
+    "synonym": "misunderstanding",
+    "antonym": "clarity",
+    "example": "a quiproquo caused both friends to miss the meeting."
+  },
+  {
+    "id": 277,
+    "word": "quixotic",
+    "synonym": "impractical",
+    "antonym": "realistic",
+    "example": "his quixotic plan to solve everything overnight failed."
+  },
+  {
+    "id": 278,
+    "word": "radical",
+    "synonym": "extreme",
+    "antonym": "moderate",
+    "example": "the committee rejected the radical proposal."
+  },
+  {
+    "id": 279,
+    "word": "rational",
+    "synonym": "logical",
+    "antonym": "irrational",
+    "example": "her rational explanation eased our fears."
+  },
+  {
+    "id": 280,
+    "word": "recalcitrant",
+    "synonym": "defiant",
+    "antonym": "obedient",
+    "example": "the recalcitrant student refused to sit down."
+  },
+  {
+    "id": 281,
+    "word": "refine",
+    "synonym": "improve",
+    "antonym": "spoil",
+    "example": "gold is refined to remove impurities."
+  },
+  {
+    "id": 282,
+    "word": "relinquish",
+    "synonym": "surrender",
+    "antonym": "retain",
+    "example": "she reluctantly relinquished control of the project."
+  },
+  {
+    "id": 283,
+    "word": "reluctant",
+    "synonym": "hesitant",
+    "antonym": "eager",
+    "example": "she was reluctant to speak in public."
+  },
+  {
+    "id": 284,
+    "word": "renegade",
+    "synonym": "rebel",
+    "antonym": "loyalist",
+    "example": "the renegade soldier abandoned his former allies."
+  },
+  {
+    "id": 285,
+    "word": "resilient",
+    "synonym": "tough",
+    "antonym": "fragile",
+    "example": "children can be remarkably resilient after setbacks."
+  },
+  {
+    "id": 286,
+    "word": "respite",
+    "synonym": "relief",
+    "antonym": "hardship",
+    "example": "the cool evening provided a respite from the heat."
+  },
+  {
+    "id": 287,
+    "word": "reticent",
+    "synonym": "reserved",
+    "antonym": "outspoken",
+    "example": "She was reticent about sharing personal information."
+  },
+  {
+    "id": 288,
+    "word": "righteous",
+    "synonym": "virtuous",
+    "antonym": "immoral",
+    "example": "the judge was known for making righteous decisions."
+  },
+  {
+    "id": 289,
+    "word": "rigid",
+    "synonym": "inflexible",
+    "antonym": "flexible",
+    "example": "the rigid rules left no room for creativity."
+  },
+  {
+    "id": 290,
+    "word": "robust",
+    "synonym": "strong",
+    "antonym": "weak",
+    "example": "the company reported robust growth."
+  },
+  {
+    "id": 291,
+    "word": "rowdy",
+    "synonym": "boisterous",
+    "antonym": "orderly",
+    "example": "The rowdy crowd made it difficult to hear the speaker."
+  },
+  {
+    "id": 292,
+    "word": "sanctioned",
+    "synonym": "authorized",
+    "antonym": "forbidden",
+    "example": "the sanctioned event took place in the gym."
+  },
+  {
+    "id": 293,
+    "word": "satiate",
+    "synonym": "satisfy",
+    "antonym": "deprive",
+    "example": "the snack did little to satiate his hunger."
+  },
+  {
+    "id": 294,
+    "word": "savvy",
+    "synonym": "shrewd",
+    "antonym": "naive",
+    "example": "the savvy investor carefully studied the company before buying shares."
+  },
+  {
+    "id": 295,
+    "word": "scion",
+    "synonym": "descendant",
+    "antonym": "ancestor",
+    "example": "as the scion of a prominent family, she was expected to continue its traditions."
+  },
+  {
+    "id": 296,
+    "word": "scorn",
+    "synonym": "contempt",
+    "antonym": "admiration",
+    "example": "she treated the rumor with scorn."
+  },
+  {
+    "id": 297,
+    "word": "scourge",
+    "synonym": "plague",
+    "antonym": "blessing",
+    "example": "the disease became a scourge on the city."
+  },
+  {
+    "id": 298,
+    "word": "scrutinize",
+    "synonym": "examine",
+    "antonym": "overlook",
+    "example": "editors scrutinize every line for errors."
+  },
+  {
+    "id": 299,
+    "word": "seldom",
+    "synonym": "rarely",
+    "antonym": "often",
+    "example": "we seldom see snow in april."
+  },
+  {
+    "id": 300,
+    "word": "seminal",
+    "synonym": "groundbreaking",
+    "antonym": "derivative",
+    "example": "his seminal paper changed the field forever."
+  },
+  {
+    "id": 301,
+    "word": "serene",
+    "synonym": "calm",
+    "antonym": "agitated",
+    "example": "the lake looked serene at sunrise."
+  },
+  {
+    "id": 302,
+    "word": "serfdom",
+    "synonym": "bondage",
+    "antonym": "freedom",
+    "example": "serfdom kept peasants tied to the land."
+  },
+  {
+    "id": 303,
+    "word": "skeptical",
+    "synonym": "doubtful",
+    "antonym": "convinced",
+    "example": "she was skeptical of the incredible claim."
+  },
+  {
+    "id": 304,
+    "word": "smother",
+    "synonym": "stifle",
+    "antonym": "free",
+    "example": "heavy blankets can smother a small fire."
+  },
+  {
+    "id": 305,
+    "word": "specious",
+    "synonym": "misleading",
+    "antonym": "genuine",
+    "example": "his specious argument sounded clever but was false."
+  },
+  {
+    "id": 306,
+    "word": "spontaneous",
+    "synonym": "impulsive",
+    "antonym": "planned",
+    "example": "Their spontaneous road trip turned into a memorable adventure."
+  },
+  {
+    "id": 307,
+    "word": "sporadic",
+    "synonym": "occasional",
+    "antonym": "constant",
+    "example": "we had sporadic phone service on the hike."
+  },
+  {
+    "id": 308,
+    "word": "spurious",
+    "synonym": "false.",
+    "antonym": "genuine",
+    "example": "the article relied on spurious evidence."
+  },
+  {
+    "id": 309,
+    "word": "stagnant",
+    "synonym": "motionless",
+    "antonym": "thriving",
+    "example": "without fresh ideas, the business became stagnant."
+  },
+  {
+    "id": 310,
+    "word": "steadfast",
+    "synonym": "unwavering",
+    "antonym": "fickle",
+    "example": "she remained steadfast in her support despite the criticism."
+  },
+  {
+    "id": 311,
+    "word": "stoic",
+    "synonym": "unemotional",
+    "antonym": "expressive",
+    "example": "she remained stoic even during the crisis."
+  },
+  {
+    "id": 312,
+    "word": "strewn",
+    "synonym": "scattered",
+    "antonym": "gathered",
+    "example": "leaves were strewn across the lawn."
+  },
+  {
+    "id": 313,
+    "word": "studious",
+    "synonym": "hardworking",
+    "antonym": "idle",
+    "example": "the studious child spent the afternoon reading."
+  },
+  {
+    "id": 314,
+    "word": "sublime",
+    "synonym": "magnificent",
+    "antonym": "mediocre",
+    "example": "we admired the sublime beauty of the mountains."
+  },
+  {
+    "id": 315,
+    "word": "subtle",
+    "synonym": "delicate",
+    "antonym": "obvious",
+    "example": "there was a subtle change in his tone."
+  },
+  {
+    "id": 316,
+    "word": "sullen",
+    "synonym": "gloomy",
+    "antonym": "cheerful",
+    "example": "after losing the game he sat in sullen silence."
+  },
+  {
+    "id": 317,
+    "word": "supersed",
+    "synonym": "replace",
+    "antonym": "retain",
+    "example": "the new policy will supersede the old one."
+  },
+  {
+    "id": 318,
+    "word": "supportive",
+    "synonym": "helpful",
+    "antonym": "unsupportive",
+    "example": "her supportive friends cheered her on."
+  },
+  {
+    "id": 319,
+    "word": "surly",
+    "synonym": "ill-tempered",
+    "antonym": "cheerful",
+    "example": "the surly clerk responded to our questions with obvious annoyance."
+  },
+  {
+    "id": 320,
+    "word": "sustain",
+    "synonym": "maintain",
+    "antonym": "abandon",
+    "example": "healthy soil helps sustain plant life."
+  },
+  {
+    "id": 321,
+    "word": "sustenance",
+    "synonym": "nourishment",
+    "antonym": "starvation",
+    "example": "the hikers carried enough sustenance for two days."
+  },
+  {
+    "id": 322,
+    "word": "sympathetic",
+    "synonym": "compassionate",
+    "antonym": "callous",
+    "example": "the doctor was sympathetic to her concerns."
+  },
+  {
+    "id": 323,
+    "word": "synergy",
+    "synonym": "cooperation",
+    "antonym": "discord",
+    "example": "the team's synergy led to a quick win."
+  },
+  {
+    "id": 324,
+    "word": "taciturn",
+    "synonym": "reserved",
+    "antonym": "talkative",
+    "example": "the taciturn boy rarely spoke during class discussions."
+  },
+  {
+    "id": 325,
+    "word": "tactful",
+    "synonym": "diplomatic",
+    "antonym": "blunt",
+    "example": "he gave tactful feedback on the draft."
+  },
+  {
+    "id": 326,
+    "word": "tedious",
+    "synonym": "boring",
+    "antonym": "engaging",
+    "example": "sorting the beads by color was tedious work."
+  },
+  {
+    "id": 327,
+    "word": "tenacious",
+    "synonym": "persistent",
+    "antonym": "yielding",
+    "example": "the tenacious lawyer refused to give up."
+  },
+  {
+    "id": 328,
+    "word": "tentative",
+    "synonym": "uncertain",
+    "antonym": "definite",
+    "example": "we made a tentative plan for next weekend."
+  },
+  {
+    "id": 329,
+    "word": "thrifty",
+    "synonym": "economical",
+    "antonym": "wasteful",
+    "example": "thrifty shoppers look for sales."
+  },
+  {
+    "id": 330,
+    "word": "torrid",
+    "synonym": "scorching",
+    "antonym": "frigid",
+    "example": "the runners struggled in the torrid summer heat."
+  },
+  {
+    "id": 331,
+    "word": "tranquil",
+    "synonym": "peaceful",
+    "antonym": "chaotic",
+    "example": "the garden felt tranquil after the rain."
+  },
+  {
+    "id": 332,
+    "word": "transaction",
+    "synonym": "exchange",
+    "antonym": "nonexchange",
+    "example": "the purchase of the house was the largest financial transaction of his life."
+  },
+  {
+    "id": 333,
+    "word": "triage",
+    "synonym": "prioritize",
+    "antonym": "neglect",
+    "example": "doctors must triage patients after a major disaster."
+  },
+  {
+    "id": 334,
+    "word": "trivial",
+    "synonym": "minor",
+    "antonym": "significant",
+    "example": "we ignored the trivial mistake and moved on."
+  },
+  {
+    "id": 335,
+    "word": "ubiquitous",
+    "synonym": "everywhere",
+    "antonym": "rare",
+    "example": "smartphones are ubiquitous today."
+  },
+  {
+    "id": 336,
+    "word": "uphold",
+    "synonym": "support",
+    "antonym": "overturn",
+    "example": "courts must uphold the law."
+  },
+  {
+    "id": 337,
+    "word": "vagrant",
+    "synonym": "homeless",
+    "antonym": "settled",
+    "example": "the city offered shelters for vagrant people."
+  },
+  {
+    "id": 338,
+    "word": "valiant",
+    "synonym": "brave",
+    "antonym": "cowardly",
+    "example": "the valiant firefighter rescued the family."
+  },
+  {
+    "id": 339,
+    "word": "validate",
+    "synonym": "confirm",
+    "antonym": "refute",
+    "example": "the experiment will validate the theory."
+  },
+  {
+    "id": 340,
+    "word": "vanguard",
+    "synonym": "forefront",
+    "antonym": "rearguard",
+    "example": "the researchers were at the vanguard of advances in artificial intelligence."
+  },
+  {
+    "id": 341,
+    "word": "vanquish",
+    "synonym": "defeat",
+    "antonym": "surrender",
+    "example": "the hero managed to vanquish his powerful opponent."
+  },
+  {
+    "id": 342,
+    "word": "vapid",
+    "synonym": "lifeless",
+    "antonym": "stimulating",
+    "example": "the speech was long and vapid."
+  },
+  {
+    "id": 343,
+    "word": "venerate",
+    "synonym": "revere",
+    "antonym": "despise",
+    "example": "many people venerate national heroes."
+  },
+  {
+    "id": 344,
+    "word": "veracity",
+    "synonym": "truthfulness",
+    "antonym": "dishonesty",
+    "example": "the journalist checked the veracity of the claim."
+  },
+  {
+    "id": 345,
+    "word": "versatile",
+    "synonym": "adaptable",
+    "antonym": "limited",
+    "example": "she is a versatile musician who plays several instruments."
+  },
+  {
+    "id": 346,
+    "word": "vicarious",
+    "synonym": "indirect",
+    "antonym": "firsthand",
+    "example": "he experienced the adventure vicariously through the novel."
+  },
+  {
+    "id": 347,
+    "word": "vigorous",
+    "synonym": "energetic",
+    "antonym": "feeble",
+    "example": "she made a vigorous effort to finish the race."
+  },
+  {
+    "id": 348,
+    "word": "vindicate",
+    "synonym": "exonerate",
+    "antonym": "condemn",
+    "example": "new evidence vindicated the man who had been wrongly accused."
+  },
+  {
+    "id": 349,
+    "word": "virulent",
+    "synonym": "deadly",
+    "antonym": "benign",
+    "example": "scientists worked quickly to contain the virulent strain of the virus."
+  },
+  {
+    "id": 350,
+    "word": "vivid",
+    "synonym": "bright",
+    "antonym": "faint",
+    "example": "she has a vivid memory of the trip."
+  },
+  {
+    "id": 351,
+    "word": "vocation",
+    "synonym": "occupation",
+    "antonym": "hobby",
+    "example": "Teaching is more than a job; it is her vocation."
+  },
+  {
+    "id": 352,
+    "word": "voluble",
+    "synonym": "talkative",
+    "antonym": "reserved",
+    "example": "the voluble guest dominated the conversation."
+  },
+  {
+    "id": 353,
+    "word": "wan",
+    "synonym": "pale",
+    "antonym": "flushed",
+    "example": "after the long illness, he looked wan."
+  },
+  {
+    "id": 354,
+    "word": "wary",
+    "synonym": "cautious",
+    "antonym": "trusting",
+    "example": "be wary of emails from unknown senders."
+  },
+  {
+    "id": 355,
+    "word": "wayward",
+    "synonym": "unruly",
+    "antonym": "obedient",
+    "example": "the teacher struggled to guide the wayward student toward better choices."
+  },
+  {
+    "id": 356,
+    "word": "wistful",
+    "synonym": "nostalgic",
+    "antonym": "indifferent",
+    "example": "she gave a wistful smile as she remembered her childhood."
+  },
+  {
+    "id": 357,
+    "word": "wrangle",
+    "synonym": "argue",
+    "antonym": "agree",
+    "example": "they continued to wrangle about the best solution."
+  },
+  {
+    "id": 358,
+    "word": "zany",
+    "synonym": "goofy",
+    "antonym": "serious",
+    "example": "kids love zany characters."
+  },
+  {
+    "id": 359,
+    "word": "zealous",
+    "synonym": "fervent",
+    "antonym": "apathetic",
+    "example": "the zealous volunteer arrived before everyone else."
+  }
+]

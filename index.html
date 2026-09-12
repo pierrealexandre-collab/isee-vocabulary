@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#6d5dfc">
+<title>ISEE Quest — Vocabulary Adventure</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="confetti"></div>
+<div class="app">
+<header class="topbar">
+  <button class="brand" data-screen="home"><span class="brand-mark">✦</span><span>ISEE Quest</span></button>
+  <div class="top-stats">
+    <div class="pill">🔥 <b id="topStreak">0</b> day streak</div>
+    <div class="pill">⭐ <b id="topXP">0</b> XP</div>
+    <button class="avatar" id="parentBtn" title="Parent dashboard">P</button>
+  </div>
+</header>
+
+<main>
+<section id="home" class="screen">
+  <div class="welcome">
+    <div>
+      <div class="kicker">VOCABULARY ADVENTURE</div>
+      <h1>Ready for your<br><span>next quest?</span></h1>
+      <p>Master ISEE vocabulary one word at a time. Your practice gets smarter as you learn.</p>
+      <button class="cta" id="dailyBtn">Start today's quest <span>→</span></button>
+    </div>
+    <div class="mascot" aria-hidden="true"><div class="mascot-face">🦊</div><div class="speech">Let's learn!</div></div>
+  </div>
+
+  <div class="daily card">
+    <div class="section-title"><div><span class="mini-icon">🎯</span><div><h2>Today's goal</h2><p id="goalText">10 questions to keep your streak alive</p></div></div><b id="goalCount">0 / 10</b></div>
+    <div class="goal-bar"><div id="goalBar"></div></div>
+  </div>
+
+  <div class="section-title simple"><div><span class="mini-icon">🗺️</span><div><h2>Your journey</h2><p>Unlock the next level by mastering words.</p></div></div></div>
+  <div id="levels" class="levels"></div>
+
+  <div class="home-cards">
+    <button class="card feature" id="reviewBtn"><span>💪</span><div><b>Review weak words</b><small>Practice words that need another look.</small></div><em>→</em></button>
+    <button class="card feature" id="browseBtn"><span>📚</span><div><b>Word library</b><small>Browse all your ISEE vocabulary.</small></div><em>→</em></button>
+    <button class="card feature" id="parentCard"><span>👨‍👩‍👧</span><div><b>Parent progress</b><small>See accuracy, streaks, and study time.</small></div><em>→</em></button>
+  </div>
+</section>
+
+<section id="quiz" class="screen hidden">
+  <div class="quiz-top"><button class="back" id="quitBtn">← Exit</button><div class="quest-label" id="questLabel">QUEST 1</div><div class="hearts" id="hearts">♥ ♥ ♥</div></div>
+  <div class="q-progress"><div id="qProgress"></div></div>
+  <div class="card question">
+    <div class="tag" id="qTag">SYNONYM</div>
+    <h2 id="qText"></h2>
+    <div id="qExample" class="example hidden"></div>
+    <div id="choices"></div>
+    <div id="feedback" class="feedback hidden"></div>
+    <button id="nextBtn" class="cta next hidden">Next →</button>
+  </div>
+</section>
+
+<section id="results" class="screen hidden">
+  <div class="card results">
+    <div class="trophy">🏆</div><div class="result-score" id="resultScore">0%</div>
+    <h1 id="resultTitle">Quest complete!</h1><p id="resultSummary"></p>
+    <div class="earned">+<b id="earnedXP">0</b> XP earned&nbsp; · &nbsp;🔥 <b id="streakResult">0</b> day streak</div>
+    <div id="reviewList" class="review-list"></div>
+    <button class="cta" id="againBtn">Another quest →</button>
+    <button class="secondary" id="resultHomeBtn">Back home</button>
+  </div>
+</section>
+
+<section id="library" class="screen hidden">
+  <div class="section-head"><div><button class="back" id="libraryHome">← Home</button><h1>Word library</h1><p>Every word in your ISEE adventure.</p></div><input id="search" placeholder="🔎 Search…"></div>
+  <div id="wordList" class="word-list"></div>
+</section>
+
+<section id="parent" class="screen hidden">
+  <div class="section-head"><div><button class="back" id="parentHome">← Home</button><h1>Parent dashboard</h1><p>A quick view of learning progress on this device.</p></div></div>
+  <div class="parent-grid">
+    <div class="metric card"><span>🔥</span><b id="pStreak">0</b><small>day streak</small></div>
+    <div class="metric card"><span>🎯</span><b id="pAccuracy">0%</b><small>accuracy</small></div>
+    <div class="metric card"><span>⭐</span><b id="pXP">0</b><small>XP earned</small></div>
+    <div class="metric card"><span>📚</span><b id="pMastered">0</b><small>words mastered</small></div>
+  </div>
+  <div class="card parent-card"><h2>Study this week</h2><div id="weekChart" class="week-chart"></div></div>
+  <div class="card parent-card"><h2>Words needing attention</h2><div id="parentWeak"></div></div>
+  <div class="card parent-card"><h2>Learning settings</h2><label class="toggle-row">Sound effects <input type="checkbox" id="soundToggle" checked><span></span></label><label class="toggle-row">Celebrations <input type="checkbox" id="celebrateToggle" checked><span></span></label></div>
+  <button class="danger" id="resetBtn">Reset all progress</button>
+</section>
+</main>
+<footer>ISEE Quest · Your progress stays on this device.</footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
