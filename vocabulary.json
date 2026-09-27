@@ -1,2946 +1,3330 @@
 [
   {
+    "id": 1,
     "word": "abate",
     "definition": "to reduce in amount, intensity, or degree",
     "synonym": "subside",
     "antonym": "intensify",
-    "example": "the rain began to abate by noon.",
-    "id": 1
+    "example": "the rain began to abate by noon."
   },
   {
+    "id": 2,
     "word": "abdicate",
     "definition": "to give up a position of power or responsibility",
     "synonym": "relinquish",
     "antonym": "assume",
-    "example": "The king chose to abdicate the throne.",
-    "id": 2
+    "example": "The king chose to abdicate the throne."
   },
   {
+    "id": 3,
+    "word": "aberrant",
+    "definition": "Departing from what is normal, typical, or expected.",
+    "synonym": "abnormal",
+    "antonym": "normal",
+    "example": "The scientist investigated the aberrant results that differed sharply from previous experiments."
+  },
+  {
+    "id": 4,
     "word": "aberration",
     "definition": "a departure from what is normal or expected",
     "synonym": "deviation",
     "antonym": "normality",
-    "example": "the low score was an aberration for her.",
-    "id": 3
+    "example": "the low score was an aberration for her."
   },
   {
+    "id": 5,
     "word": "abhor",
     "definition": "to hate or detest intensely",
     "synonym": "detest",
     "antonym": "admire",
-    "example": "they abhor cruelty to animals.",
-    "id": 4
+    "example": "they abhor cruelty to animals."
   },
   {
+    "id": 6,
     "word": "abide",
     "definition": "to accept or tolerate; to remain or continue",
     "synonym": "endure",
     "antonym": "resist",
-    "example": "good citizens abide by the law.",
-    "id": 5
+    "example": "good citizens abide by the law."
   },
   {
+    "id": 7,
+    "word": "abjure",
+    "definition": "To formally or solemnly renounce or reject something.",
+    "synonym": "renounce",
+    "antonym": "embrace",
+    "example": "After witnessing its harmful effects, he abjured violence entirely."
+  },
+  {
+    "id": 8,
     "word": "abrasive",
     "definition": "harsh or irritating in manner or texture",
     "synonym": "harsh",
     "antonym": "gentle",
-    "example": "His abrasive manner often offended his coworkers.",
-    "id": 6
+    "example": "His abrasive manner often offended his coworkers."
   },
   {
+    "id": 9,
     "word": "abstain",
     "definition": "to deliberately refrain from doing or using something",
     "synonym": "refrain",
     "antonym": "indulge",
-    "example": "he chose to abstain from the debate.",
-    "id": 7
+    "example": "he chose to abstain from the debate."
   },
   {
+    "id": 10,
     "word": "abstruse",
     "definition": "difficult to understand; obscure",
     "synonym": "obscure",
     "antonym": "clear",
-    "example": "the article was so abstruse that few students understood it.",
-    "id": 8
+    "example": "the article was so abstruse that few students understood it."
   },
   {
+    "id": 11,
     "word": "abundance",
     "definition": "a very large quantity; plenty",
     "synonym": "plenty",
     "antonym": "scarcity",
-    "example": "the garden produced an abundance of tomatoes.",
-    "id": 9
+    "example": "the garden produced an abundance of tomatoes."
   },
   {
+    "id": 12,
     "word": "abundant",
     "definition": "existing in large quantities; plentiful",
     "synonym": "plentiful",
     "antonym": "scarce",
-    "example": "wildflowers were abundant in the field.",
-    "id": 10
+    "example": "wildflowers were abundant in the field."
   },
   {
+    "id": 13,
     "word": "acclaim",
     "definition": "enthusiastic public praise or approval",
     "synonym": "praise",
     "antonym": "criticism",
-    "example": "the young author won acclaim for her novel.",
-    "id": 11
+    "example": "the young author won acclaim for her novel."
   },
   {
+    "id": 14,
+    "word": "acme",
+    "definition": "The highest point or greatest level of achievement.",
+    "synonym": "pinnacle",
+    "antonym": "nadir",
+    "example": "Winning the championship represented the acme of her athletic career."
+  },
+  {
+    "id": 15,
     "word": "acrid",
     "definition": "sharp, bitter, or irritating in taste or smell",
     "synonym": "pungent",
     "antonym": "sweet",
-    "example": "acrid smoke filled the hallway.",
-    "id": 12
+    "example": "acrid smoke filled the hallway."
   },
   {
+    "id": 16,
+    "word": "acumen",
+    "definition": "The ability to make quick and accurate judgments in a particular field.",
+    "synonym": "insight",
+    "antonym": "ineptitude",
+    "example": "Her financial acumen made her an effective business leader."
+  },
+  {
+    "id": 17,
     "word": "adept",
     "definition": "highly skilled or proficient",
     "synonym": "skillful",
     "antonym": "clumsy",
-    "example": "she is adept at solving logic puzzles.",
-    "id": 13
+    "example": "she is adept at solving logic puzzles."
   },
   {
+    "id": 18,
     "word": "adhere",
     "definition": "to stick firmly to; to follow or obey",
     "synonym": "stick",
     "antonym": "abandon",
-    "example": "Please adhere to the safety guidelines at all times.",
-    "id": 14
+    "example": "Please adhere to the safety guidelines at all times."
   },
   {
+    "id": 19,
     "word": "admonish",
     "definition": "to warn, reprimand, or advise firmly",
     "synonym": "reprimand",
     "antonym": "praise",
-    "example": "The coach admonished the players for arriving late.",
-    "id": 15
+    "example": "The coach admonished the players for arriving late."
   },
   {
+    "id": 20,
     "word": "aesthetic",
     "definition": "concerned with beauty or artistic appreciation",
     "synonym": "artistic",
     "antonym": "unattractive",
-    "example": "the museum has a strong aesthetic appeal.",
-    "id": 16
+    "example": "the museum has a strong aesthetic appeal."
   },
   {
+    "id": 21,
     "word": "affable",
     "definition": "friendly, pleasant, and easy to talk to",
     "synonym": "friendly",
     "antonym": "aloof",
-    "example": "our affable host welcomed everyone warmly.",
-    "id": 17
+    "example": "our affable host welcomed everyone warmly."
   },
   {
+    "id": 22,
     "word": "affliction",
     "definition": "A condition that causes pain, suffering, or distress.",
     "synonym": "suffering",
     "antonym": "comfort",
-    "example": "The disease was a painful affliction that limited his mobility.",
-    "id": 18
+    "example": "The disease was a painful affliction that limited his mobility."
   },
   {
+    "id": 23,
     "word": "aggravate",
     "definition": "to make a problem or situation worse; to irritate",
     "synonym": "worsen",
     "antonym": "soothe",
-    "example": "scratching the bite will only aggravate it.",
-    "id": 19
+    "example": "scratching the bite will only aggravate it."
   },
   {
+    "id": 24,
     "word": "agile",
     "definition": "quick and nimble in movement or thought",
     "synonym": "nimble",
     "antonym": "awkward",
-    "example": "the agile cat leaped onto the fence.",
-    "id": 20
+    "example": "the agile cat leaped onto the fence."
   },
   {
+    "id": 25,
     "word": "ail",
     "definition": "to cause pain or trouble; to be ill",
     "synonym": "afflict",
     "antonym": "heal",
-    "example": "the doctor tried to determine what was ailing the patient.",
-    "id": 21
+    "example": "the doctor tried to determine what was ailing the patient."
   },
   {
+    "id": 26,
     "word": "alacrity",
     "definition": "eager and cheerful readiness",
     "synonym": "eagerness",
     "antonym": "reluctance",
-    "example": "she accepted the invitation with alacrity.",
-    "id": 22
+    "example": "she accepted the invitation with alacrity."
   },
   {
+    "id": 27,
     "word": "allegation",
     "definition": "a claim or accusation that has not yet been proven",
     "synonym": "accusation",
     "antonym": "proof",
-    "example": "the allegation was serious but not yet proven.",
-    "id": 23
+    "example": "the allegation was serious but not yet proven."
   },
   {
+    "id": 28,
     "word": "alleviate",
     "definition": "to make pain, difficulty, or a problem less severe",
     "synonym": "relieve",
     "antonym": "worsen",
-    "example": "cold water can alleviate the pain.",
-    "id": 24
+    "example": "cold water can alleviate the pain."
   },
   {
+    "id": 29,
     "word": "allot",
     "definition": "to distribute or assign a portion of something",
     "synonym": "allocate",
     "antonym": "withhold",
-    "example": "The committee will allot funds to each department.",
-    "id": 25
+    "example": "The committee will allot funds to each department."
   },
   {
+    "id": 30,
     "word": "aloof",
     "definition": "distant, reserved, or uninterested in others",
     "synonym": "distant",
     "antonym": "friendly",
-    "example": "she remained aloof and did not join the conversation.",
-    "id": 26
+    "example": "she remained aloof and did not join the conversation."
   },
   {
+    "id": 31,
     "word": "ambiguous",
     "definition": "open to more than one interpretation; unclear",
     "synonym": "unclear",
     "antonym": "explicit",
-    "example": "the ambiguous instructions could be interpreted in several ways.",
-    "id": 27
+    "example": "the ambiguous instructions could be interpreted in several ways."
   },
   {
+    "id": 32,
     "word": "amiable",
     "definition": "friendly and pleasant in manner",
     "synonym": "pleasant",
     "antonym": "hostile",
-    "example": "the amiable teacher made the class feel comfortable.",
-    "id": 28
+    "example": "the amiable teacher made the class feel comfortable."
   },
   {
+    "id": 33,
+    "word": "amity",
+    "definition": "A friendly and peaceful relationship.",
+    "synonym": "friendship",
+    "antonym": "hostility",
+    "example": "Years of conflict were followed by a period of amity between the two nations."
+  },
+  {
+    "id": 34,
     "word": "ample",
     "definition": "more than enough; plentiful",
     "synonym": "plentiful",
     "antonym": "insufficient",
-    "example": "we had ample time to finish the project.",
-    "id": 29
+    "example": "we had ample time to finish the project."
   },
   {
+    "id": 35,
     "word": "anachronistic",
     "definition": "belonging to or placed in the wrong historical period",
     "synonym": "outdated",
     "antonym": "modern",
-    "example": "the knight in a wristwatch looked anachronistic.",
-    "id": 30
+    "example": "the knight in a wristwatch looked anachronistic."
   },
   {
+    "id": 36,
     "word": "anomaly",
     "definition": "something that differs from what is normal or expected",
     "synonym": "irregularity",
     "antonym": "pattern",
-    "example": "the sudden drop in sales was an anomaly.",
-    "id": 31
+    "example": "the sudden drop in sales was an anomaly."
   },
   {
+    "id": 37,
     "word": "anticipate",
     "definition": "to expect or predict something before it happens",
     "synonym": "expect",
     "antonym": "doubt",
-    "example": "we anticipate heavy traffic before the game.",
-    "id": 32
+    "example": "we anticipate heavy traffic before the game."
   },
   {
+    "id": 38,
     "word": "apathetic",
     "definition": "showing little interest, enthusiasm, or concern",
     "synonym": "indifferent",
     "antonym": "enthusiastic",
-    "example": "he seemed apathetic about joining the club.",
-    "id": 33
+    "example": "he seemed apathetic about joining the club."
   },
   {
+    "id": 39,
+    "word": "apotheosis",
+    "definition": "The highest point of development or achievement; an ideal or glorified example.",
+    "synonym": "culmination",
+    "antonym": "nadir",
+    "example": "The final performance was the apotheosis of his long career on the stage."
+  },
+  {
+    "id": 40,
     "word": "appease",
     "definition": "to calm, satisfy, or pacify someone",
     "synonym": "pacify",
     "antonym": "provoke",
-    "example": "they offered an apology to appease the crowd.",
-    "id": 34
+    "example": "they offered an apology to appease the crowd."
   },
   {
+    "id": 41,
     "word": "apprehension",
     "definition": "anxiety or fear about what may happen",
     "synonym": "anxiety",
     "antonym": "confidence",
-    "example": "she felt apprehension before the audition.",
-    "id": 35
+    "example": "she felt apprehension before the audition."
   },
   {
+    "id": 42,
+    "word": "approbate",
+    "definition": "To approve or formally sanction something.",
+    "synonym": "approve",
+    "antonym": "condemn",
+    "example": "The committee voted to approbate the proposed changes."
+  },
+  {
+    "id": 43,
     "word": "arduous",
     "definition": "requiring great effort; difficult and tiring",
     "synonym": "strenuous",
     "antonym": "easy",
-    "example": "climbing the peak was an arduous task.",
-    "id": 36
+    "example": "climbing the peak was an arduous task."
   },
   {
+    "id": 44,
     "word": "arid",
     "definition": "extremely dry; lacking moisture",
     "synonym": "dry",
     "antonym": "moist",
-    "example": "few plants grow in the arid desert.",
-    "id": 37
+    "example": "few plants grow in the arid desert."
   },
   {
+    "id": 45,
+    "word": "armistice",
+    "definition": "An agreement between opposing sides to stop fighting.",
+    "synonym": "truce",
+    "antonym": "warfare",
+    "example": "The two armies agreed to an armistice that ended the fighting."
+  },
+  {
+    "id": 46,
     "word": "aroma",
     "definition": "a distinctive, usually pleasant, smell",
     "synonym": "fragrance",
     "antonym": "stench",
-    "example": "the aroma of fresh bread spread through the kitchen.",
-    "id": 38
+    "example": "the aroma of fresh bread spread through the kitchen."
   },
   {
+    "id": 47,
     "word": "articulate",
     "definition": "able to express ideas clearly and effectively",
     "synonym": "eloquent",
     "antonym": "inarticulate",
-    "example": "the senator gave an articulate response.",
-    "id": 39
+    "example": "the senator gave an articulate response."
   },
   {
+    "id": 48,
     "word": "asphyxiate",
     "definition": "to deprive someone of oxygen, causing suffocation",
     "synonym": "suffocate",
     "antonym": "revive",
-    "example": "the smoke could asphyxiate anyone trapped inside.",
-    "id": 40
+    "example": "the smoke could asphyxiate anyone trapped inside."
   },
   {
+    "id": 49,
     "word": "assert",
     "definition": "to state or defend something confidently and forcefully",
     "synonym": "declare",
     "antonym": "deny",
-    "example": "she did not hesitate to assert her opinion.",
-    "id": 41
+    "example": "she did not hesitate to assert her opinion."
   },
   {
+    "id": 50,
+    "word": "assuage",
+    "definition": "To make an unpleasant feeling, such as fear or pain, less intense.",
+    "synonym": "alleviate",
+    "antonym": "intensify",
+    "example": "The doctor tried to assuage the patient's fears before the procedure."
+  },
+  {
+    "id": 51,
     "word": "astound",
     "definition": "to greatly surprise or amaze",
     "synonym": "amaze",
     "antonym": "bore",
-    "example": "the magician managed to astound the audience.",
-    "id": 42
+    "example": "the magician managed to astound the audience."
   },
   {
+    "id": 52,
     "word": "astute",
     "definition": "clever and perceptive; good at judging situations",
     "synonym": "shrewd",
     "antonym": "naive",
-    "example": "the astute investor noticed the trend early.",
-    "id": 43
+    "example": "the astute investor noticed the trend early."
   },
   {
+    "id": 53,
     "word": "atrocious",
     "definition": "extremely bad, cruel, or unpleasant",
     "synonym": "terrible",
     "antonym": "excellent",
-    "example": "the weather was atrocious all weekend.",
-    "id": 44
+    "example": "the weather was atrocious all weekend."
   },
   {
+    "id": 54,
     "word": "austere",
     "definition": "severe, plain, or without comfort or decoration",
     "synonym": "severe",
     "antonym": "luxurious",
-    "example": "the cabin was austere but clean.",
-    "id": 45
+    "example": "the cabin was austere but clean."
   },
   {
+    "id": 55,
     "word": "behest",
     "definition": "an authoritative request or command",
     "synonym": "command",
     "antonym": "request",
-    "example": "he acted at the behest of his manager.",
-    "id": 46
+    "example": "he acted at the behest of his manager."
   },
   {
+    "id": 56,
     "word": "behoove",
     "definition": "to be necessary or appropriate for someone",
     "synonym": "benefit",
     "antonym": "harm",
-    "example": "it would behoove you to read the instructions first.",
-    "id": 47
+    "example": "it would behoove you to read the instructions first."
   },
   {
+    "id": 57,
     "word": "belittled",
     "definition": "made to seem unimportant or inferior",
     "synonym": "demeaned",
     "antonym": "praised",
-    "example": "he felt belittled by the rude remark.",
-    "id": 48
+    "example": "he felt belittled by the rude remark."
   },
   {
+    "id": 58,
     "word": "bellicose",
     "definition": "aggressive and eager to fight or argue",
     "synonym": "aggressive",
     "antonym": "peaceful",
-    "example": "the bellicose leader threatened his neighbors.",
-    "id": 49
+    "example": "the bellicose leader threatened his neighbors."
   },
   {
+    "id": 59,
     "word": "bellow",
     "definition": "to shout loudly and deeply",
     "synonym": "roar",
     "antonym": "whisper",
-    "example": "the coach bellowed instructions across the field.",
-    "id": 50
+    "example": "the coach bellowed instructions across the field."
   },
   {
+    "id": 60,
     "word": "benevolent",
     "definition": "kind, generous, and charitable",
     "synonym": "kind",
     "antonym": "cruel",
-    "example": "a benevolent donor funded the library.",
-    "id": 51
+    "example": "a benevolent donor funded the library."
   },
   {
+    "id": 61,
     "word": "benign",
     "definition": "harmless or not dangerous",
     "synonym": "harmless",
     "antonym": "malignant",
-    "example": "The doctor assured her that the tumor was benign.",
-    "id": 52
+    "example": "The doctor assured her that the tumor was benign."
   },
   {
+    "id": 62,
     "word": "beseech",
     "definition": "To ask someone urgently and earnestly for something.",
     "synonym": "implore",
     "antonym": "command",
-    "example": "She beseeched the judge to show mercy.",
-    "id": 53
+    "example": "She beseeched the judge to show mercy."
   },
   {
+    "id": 63,
     "word": "besotted",
     "definition": "completely infatuated or foolishly devoted",
     "synonym": "infatuated",
     "antonym": "indifferent",
-    "example": "he was besotted with the actress and talked about her constantly.",
-    "id": 54
+    "example": "he was besotted with the actress and talked about her constantly."
   },
   {
+    "id": 64,
     "word": "blight",
     "definition": "Something that damages or destroys; to cause severe harm or deterioration.",
     "synonym": "ruin",
     "antonym": "improve",
-    "example": "The prolonged drought blighted crops throughout the region.",
-    "id": 55
+    "example": "The prolonged drought blighted crops throughout the region."
   },
   {
+    "id": 65,
     "word": "blockade",
     "definition": "An act of preventing goods, people, or supplies from entering or leaving a place.",
     "synonym": "obstruction",
     "antonym": "access",
-    "example": "The naval blockade prevented supplies from reaching the port.",
-    "id": 56
+    "example": "The naval blockade prevented supplies from reaching the port."
   },
   {
+    "id": 66,
     "word": "bolster",
     "definition": "to strengthen, support, or encourage",
     "synonym": "strengthen",
     "antonym": "undermine",
-    "example": "the good review helped bolster her confidence.",
-    "id": 57
+    "example": "the good review helped bolster her confidence."
   },
   {
+    "id": 67,
     "word": "bout",
     "definition": "a short period of intense activity, illness, or difficulty",
     "synonym": "spell",
     "antonym": "permanence",
-    "example": "she returned to school after a brief bout of illness.",
-    "id": 58
+    "example": "she returned to school after a brief bout of illness."
   },
   {
+    "id": 68,
     "word": "buffer",
     "definition": "something that protects against harm or reduces the impact of something",
     "synonym": "cushion",
     "antonym": "expose",
-    "example": "the trees provide a buffer between the houses and the noisy highway.",
-    "id": 59
+    "example": "the trees provide a buffer between the houses and the noisy highway."
   },
   {
+    "id": 69,
+    "word": "buttress",
+    "definition": "To strengthen or support something physically or figuratively.",
+    "synonym": "support",
+    "antonym": "undermine",
+    "example": "The new evidence helped buttress the scientist's argument."
+  },
+  {
+    "id": 70,
     "word": "cacophony",
     "definition": "a harsh mixture of loud, unpleasant sounds",
     "synonym": "din",
     "antonym": "harmony",
-    "example": "a cacophony of horns echoed downtown.",
-    "id": 60
+    "example": "a cacophony of horns echoed downtown."
   },
   {
+    "id": 71,
     "word": "candid",
     "definition": "truthful and straightforward",
     "synonym": "frank",
     "antonym": "guarded",
-    "example": "her candid answer surprised the panel.",
-    "id": 61
+    "example": "her candid answer surprised the panel."
   },
   {
+    "id": 72,
+    "word": "canny",
+    "definition": "Clever, cautious, and skilled at making practical judgments.",
+    "synonym": "shrewd",
+    "antonym": "naive",
+    "example": "The canny investor recognized the risks before anyone else did."
+  },
+  {
+    "id": 73,
     "word": "canonical",
     "definition": "accepted as standard, authoritative, or traditional",
     "synonym": "standard",
     "antonym": "unofficial",
-    "example": "the professor assigned the canonical text.",
-    "id": 62
+    "example": "the professor assigned the canonical text."
   },
   {
+    "id": 74,
     "word": "capricious",
     "definition": "changing suddenly and unpredictably; impulsive",
     "synonym": "fickle",
     "antonym": "consistent",
-    "example": "the capricious weather changed by the hour.",
-    "id": 63
+    "example": "the capricious weather changed by the hour."
   },
   {
+    "id": 75,
     "word": "cathartic",
     "definition": "providing emotional relief through the release of strong feelings",
     "synonym": "cleansing",
     "antonym": "stifling",
-    "example": "writing about the experience was deeply cathartic.",
-    "id": 64
+    "example": "writing about the experience was deeply cathartic."
   },
   {
+    "id": 76,
     "word": "caveat",
     "definition": "a warning, condition, or qualification attached to an agreement or statement",
     "synonym": "warning",
     "antonym": "assurance",
-    "example": "he offered a caveat before agreeing to the plan.",
-    "id": 65
+    "example": "he offered a caveat before agreeing to the plan."
   },
   {
+    "id": 77,
+    "word": "chiasm",
+    "definition": "A crossing or intersection, especially of anatomical structures.",
+    "synonym": "crossing",
+    "antonym": "separation",
+    "example": "The optic chiasm is the point where fibers from the optic nerves partially cross."
+  },
+  {
+    "id": 78,
     "word": "chide",
     "definition": "to scold or criticize mildly",
     "synonym": "scold",
     "antonym": "praise",
-    "example": "the teacher chided the students for talking during the exam.",
-    "id": 66
+    "example": "the teacher chided the students for talking during the exam."
   },
   {
+    "id": 79,
     "word": "circumspect",
     "definition": "careful to consider possible risks or consequences",
     "synonym": "cautious",
     "antonym": "reckless",
-    "example": "be circumspect when sharing personal information online.",
-    "id": 67
+    "example": "be circumspect when sharing personal information online."
   },
   {
+    "id": 80,
     "word": "clandestine",
     "definition": "secret or concealed, especially because it is improper or illegal",
     "synonym": "secret",
     "antonym": "open",
-    "example": "they held a clandestine meeting after school.",
-    "id": 68
+    "example": "they held a clandestine meeting after school."
   },
   {
+    "id": 81,
     "word": "coerce",
     "definition": "to force someone to do something through threats or pressure",
     "synonym": "compel",
     "antonym": "persuade",
-    "example": "They tried to coerce him into signing the contract.",
-    "id": 69
+    "example": "They tried to coerce him into signing the contract."
   },
   {
+    "id": 82,
     "word": "coherent",
     "definition": "logical, consistent, and easy to understand",
     "synonym": "logical",
     "antonym": "confused",
-    "example": "his explanation was clear and coherent.",
-    "id": 70
+    "example": "his explanation was clear and coherent."
   },
   {
+    "id": 83,
     "word": "commemorate",
     "definition": "to honor the memory of a person or event",
     "synonym": "honor",
     "antonym": "ignore",
-    "example": "The town gathered to commemorate the veterans' service.",
-    "id": 71
+    "example": "The town gathered to commemorate the veterans' service."
   },
   {
+    "id": 84,
     "word": "complacent",
     "definition": "self-satisfied and unaware of possible problems",
     "synonym": "self-satisfied",
     "antonym": "vigilant",
-    "example": "the team grew complacent after its early lead.",
-    "id": 72
+    "example": "the team grew complacent after its early lead."
   },
   {
+    "id": 85,
     "word": "compromise",
     "definition": "an agreement in which each side makes concessions; to settle by mutual concession",
     "synonym": "settlement",
     "antonym": "intransigence",
-    "example": "both sides made a compromise to end the dispute.",
-    "id": 73
+    "example": "both sides made a compromise to end the dispute."
   },
   {
+    "id": 86,
     "word": "conceit",
     "definition": "excessive pride in oneself; an overly favorable opinion of oneself",
     "synonym": "vanity",
     "antonym": "humility",
-    "example": "his conceit made him hard to work with.",
-    "id": 74
+    "example": "his conceit made him hard to work with."
   },
   {
+    "id": 87,
     "word": "conceited",
     "definition": "excessively proud of oneself",
     "synonym": "vain",
     "antonym": "modest",
-    "example": "the conceited actor expected constant praise.",
-    "id": 75
+    "example": "the conceited actor expected constant praise."
   },
   {
+    "id": 88,
     "word": "concise",
     "definition": "brief but clear and complete",
     "synonym": "brief",
     "antonym": "verbose",
-    "example": "Her explanation was clear and concise.",
-    "id": 76
+    "example": "Her explanation was clear and concise."
   },
   {
+    "id": 89,
     "word": "concur",
     "definition": "to agree or have the same opinion",
     "synonym": "agree",
     "antonym": "disagree",
-    "example": "the judges concurred on the final choice.",
-    "id": 77
+    "example": "the judges concurred on the final choice."
   },
   {
+    "id": 90,
     "word": "condemn",
     "definition": "to express strong disapproval of; to sentence to punishment",
     "synonym": "censure",
     "antonym": "praise",
-    "example": "the committee condemned the unsafe practices.",
-    "id": 78
+    "example": "the committee condemned the unsafe practices."
   },
   {
+    "id": 91,
     "word": "conform",
     "definition": "to behave according to accepted rules or standards",
     "synonym": "comply",
     "antonym": "defy",
-    "example": "students must conform to the safety rules.",
-    "id": 79
+    "example": "students must conform to the safety rules."
   },
   {
+    "id": 92,
     "word": "conjecture",
     "definition": "a conclusion or guess based on incomplete evidence",
     "synonym": "speculate",
     "antonym": "certainty",
-    "example": "Historians can only conjecture about what happened.",
-    "id": 80
+    "example": "Historians can only conjecture about what happened."
   },
   {
+    "id": 93,
     "word": "conservative",
     "definition": "cautious and resistant to sudden or extreme change",
     "synonym": "cautious",
     "antonym": "radical",
-    "example": "she took a conservative approach to investing.",
-    "id": 81
+    "example": "she took a conservative approach to investing."
   },
   {
+    "id": 94,
     "word": "conspicuous",
     "definition": "easy to notice; clearly visible",
     "synonym": "noticeable",
     "antonym": "hidden",
-    "example": "the bright umbrella was conspicuous in the crowd.",
-    "id": 82
+    "example": "the bright umbrella was conspicuous in the crowd."
   },
   {
+    "id": 95,
     "word": "contempt",
     "definition": "a feeling that someone or something is beneath respect",
     "synonym": "scorn",
     "antonym": "respect",
-    "example": "she looked at the fraud with contempt.",
-    "id": 83
+    "example": "she looked at the fraud with contempt."
   },
   {
+    "id": 96,
     "word": "copious",
     "definition": "existing or occurring in large quantities",
     "synonym": "abundant",
     "antonym": "meager",
-    "example": "copious notes covered his desk.",
-    "id": 84
+    "example": "copious notes covered his desk."
   },
   {
+    "id": 97,
     "word": "cordial",
     "definition": "warm and friendly",
     "synonym": "friendly",
     "antonym": "hostile",
-    "example": "despite their disagreement the two leaders remained cordial.",
-    "id": 85
+    "example": "despite their disagreement the two leaders remained cordial."
   },
   {
+    "id": 98,
     "word": "corrugate",
     "definition": "to form into wrinkles, ridges, or grooves",
     "synonym": "wrinkle",
     "antonym": "smooth",
-    "example": "the machine corrugates the cardboard to make it stronger.",
-    "id": 86
+    "example": "the machine corrugates the cardboard to make it stronger."
   },
   {
+    "id": 99,
+    "word": "covetous",
+    "definition": "Having an excessive desire to possess something, especially something belonging to another person.",
+    "synonym": "greedy",
+    "antonym": "content",
+    "example": "The covetous ruler constantly sought to acquire neighboring lands."
+  },
+  {
+    "id": 100,
     "word": "credible",
     "definition": "believable and worthy of trust",
     "synonym": "believable",
     "antonym": "dubious",
-    "example": "the witness gave a credible account.",
-    "id": 87
+    "example": "the witness gave a credible account."
   },
   {
+    "id": 101,
     "word": "cursory",
     "definition": "quick and incomplete; lacking careful attention",
     "synonym": "hasty",
     "antonym": "thorough",
-    "example": "the inspector gave the room a cursory glance.",
-    "id": 88
+    "example": "the inspector gave the room a cursory glance."
   },
   {
+    "id": 102,
     "word": "deference",
     "definition": "respectful submission to another person's judgment or wishes",
     "synonym": "respect",
     "antonym": "disrespect",
-    "example": "out of deference to her coach, she stayed quiet.",
-    "id": 89
+    "example": "out of deference to her coach, she stayed quiet."
   },
   {
+    "id": 103,
     "word": "deficient",
     "definition": "lacking something necessary; insufficient",
     "synonym": "lacking",
     "antonym": "adequate",
-    "example": "the report was deficient in evidence.",
-    "id": 90
+    "example": "the report was deficient in evidence."
   },
   {
+    "id": 104,
     "word": "demur",
     "definition": "to raise objections or show reluctance",
     "synonym": "object",
     "antonym": "consent",
-    "example": "she did not demur when asked to help.",
-    "id": 91
+    "example": "she did not demur when asked to help."
   },
   {
+    "id": 105,
     "word": "demure",
     "definition": "modest, reserved, and quiet in manner",
     "synonym": "modest",
     "antonym": "bold",
-    "example": "she gave a demure smile before accepting the award.",
-    "id": 92
+    "example": "she gave a demure smile before accepting the award."
   },
   {
+    "id": 106,
     "word": "denounce",
     "definition": "to publicly condemn or criticize strongly",
     "synonym": "condemn",
     "antonym": "endorse",
-    "example": "the mayor denounced the acts of vandalism.",
-    "id": 93
+    "example": "the mayor denounced the acts of vandalism."
   },
   {
+    "id": 107,
     "word": "deplete",
     "definition": "to use up or greatly reduce a supply",
     "synonym": "exhaust",
     "antonym": "replenish",
-    "example": "the long drought depleted the town's water supply.",
-    "id": 94
+    "example": "the long drought depleted the town's water supply."
   },
   {
+    "id": 108,
     "word": "derivative",
     "definition": "based on or developed from another source; not original",
     "synonym": "unoriginal",
     "antonym": "innovative",
-    "example": "critics called the sequel derivative.",
-    "id": 95
+    "example": "critics called the sequel derivative."
   },
   {
+    "id": 109,
     "word": "despondent",
     "definition": "deeply discouraged or without hope",
     "synonym": "hopeless",
     "antonym": "hopeful",
-    "example": "he felt despondent after the loss.",
-    "id": 96
+    "example": "he felt despondent after the loss."
   },
   {
+    "id": 110,
     "word": "destitute",
     "definition": "extremely poor and lacking basic necessities",
     "synonym": "impoverished",
     "antonym": "affluent",
-    "example": "the charity provides food and shelter to destitute families.",
-    "id": 97
+    "example": "the charity provides food and shelter to destitute families."
   },
   {
+    "id": 111,
     "word": "detrimental",
     "definition": "causing harm or damage",
     "synonym": "harmful",
     "antonym": "beneficial",
-    "example": "too little sleep is detrimental to learning.",
-    "id": 98
+    "example": "too little sleep is detrimental to learning."
   },
   {
+    "id": 112,
+    "word": "devote",
+    "definition": "To give a large amount of time, effort, or attention to a particular purpose.",
+    "synonym": "dedicate",
+    "antonym": "neglect",
+    "example": "She decided to devote more time to studying mathematics."
+  },
+  {
+    "id": 113,
+    "word": "devout",
+    "definition": "Deeply committed to a religion, belief, or cause.",
+    "synonym": "pious",
+    "antonym": "irreligious",
+    "example": "He was a devout follower of his faith."
+  },
+  {
+    "id": 114,
     "word": "dexterity",
     "definition": "skill and ease in using the hands or body; mental skill",
     "synonym": "skill",
     "antonym": "clumsiness",
-    "example": "the surgeon's dexterity impressed everyone in the operating room.",
-    "id": 99
+    "example": "the surgeon's dexterity impressed everyone in the operating room."
   },
   {
+    "id": 115,
+    "word": "dexterous",
+    "definition": "Showing great skill and ease, especially in using the hands.",
+    "synonym": "skillful",
+    "antonym": "clumsy",
+    "example": "The dexterous pianist moved her fingers effortlessly across the keys."
+  },
+  {
+    "id": 116,
     "word": "didactic",
     "definition": "intended to teach, sometimes in an overly instructive way",
     "synonym": "instructive",
     "antonym": "uninformative",
-    "example": "the story was entertaining without becoming too didactic.",
-    "id": 100
+    "example": "the story was entertaining without becoming too didactic."
   },
   {
+    "id": 117,
     "word": "dilapidated",
     "definition": "in poor condition because of neglect or age",
     "synonym": "rundown",
     "antonym": "well-maintained",
-    "example": "the dilapidated house had broken windows and a leaking roof.",
-    "id": 101
+    "example": "the dilapidated house had broken windows and a leaking roof."
   },
   {
+    "id": 118,
     "word": "diligent",
     "definition": "careful, persistent, and hardworking",
     "synonym": "industrious",
     "antonym": "lazy",
-    "example": "the diligent student reviewed her notes nightly.",
-    "id": 102
+    "example": "the diligent student reviewed her notes nightly."
   },
   {
+    "id": 119,
+    "word": "disclose",
+    "definition": "To make information known, especially information that was previously secret.",
+    "synonym": "reveal",
+    "antonym": "conceal",
+    "example": "The company was required to disclose the risks to investors."
+  },
+  {
+    "id": 120,
     "word": "discreet",
     "definition": "careful and tactful, especially about keeping something confidential",
     "synonym": "tactful",
     "antonym": "indiscreet",
-    "example": "please be discreet when discussing the surprise.",
-    "id": 103
+    "example": "please be discreet when discussing the surprise."
   },
   {
+    "id": 121,
     "word": "disheveled",
     "definition": "untidy or messy in appearance",
     "synonym": "rumpled",
     "antonym": "neat",
-    "example": "he arrived with disheveled hair and a wrinkled shirt.",
-    "id": 104
+    "example": "he arrived with disheveled hair and a wrinkled shirt."
   },
   {
+    "id": 122,
     "word": "dismal",
     "definition": "gloomy, depressing, or very poor",
     "synonym": "gloomy",
     "antonym": "cheerful",
-    "example": "The team endured a dismal season with few victories.",
-    "id": 105
+    "example": "The team endured a dismal season with few victories."
   },
   {
+    "id": 123,
     "word": "diverge",
     "definition": "to move or develop in different directions",
     "synonym": "separate",
     "antonym": "converge",
-    "example": "the two roads diverge near the river.",
-    "id": 106
+    "example": "the two roads diverge near the river."
   },
   {
+    "id": 124,
     "word": "divert",
     "definition": "to redirect attention or movement; to entertain",
     "synonym": "redirect",
     "antonym": "focus",
-    "example": "guards tried to divert traffic from the accident.",
-    "id": 107
+    "example": "guards tried to divert traffic from the accident."
   },
   {
+    "id": 125,
+    "word": "dogged",
+    "definition": "Showing persistent determination and refusing to give up.",
+    "synonym": "persistent",
+    "antonym": "wavering",
+    "example": "Through dogged determination, she eventually solved the difficult problem."
+  },
+  {
+    "id": 126,
     "word": "eccentric",
     "definition": "unconventional or noticeably different from what is usual",
     "synonym": "unconventional",
     "antonym": "ordinary",
-    "example": "the eccentric inventor wore mismatched shoes.",
-    "id": 108
+    "example": "the eccentric inventor wore mismatched shoes."
   },
   {
+    "id": 127,
     "word": "elaborate",
     "definition": "detailed and complicated; to develop or explain in greater detail",
     "synonym": "intricate",
     "antonym": "simple",
-    "example": "the architect presented an elaborate design for the new theater.",
-    "id": 109
+    "example": "the architect presented an elaborate design for the new theater."
   },
   {
+    "id": 128,
     "word": "elated",
     "definition": "extremely happy and excited",
     "synonym": "joyful",
     "antonym": "dejected",
-    "example": "she was elated after hearing the good news.",
-    "id": 110
+    "example": "she was elated after hearing the good news."
   },
   {
+    "id": 129,
     "word": "elusive",
     "definition": "difficult to find, catch, understand, or achieve",
     "synonym": "hard to grasp",
     "antonym": "obvious",
-    "example": "a perfect solution remained elusive.",
-    "id": 111
+    "example": "a perfect solution remained elusive."
   },
   {
+    "id": 130,
     "word": "embargo",
     "definition": "an official ban on trade or other activity with a particular country or group",
     "synonym": "ban",
     "antonym": "permission",
-    "example": "the government imposed an embargo on trade with the country.",
-    "id": 112
+    "example": "the government imposed an embargo on trade with the country."
   },
   {
+    "id": 131,
     "word": "embattled",
     "definition": "involved in conflict or facing severe criticism and difficulties",
     "synonym": "beleaguered",
     "antonym": "untroubled",
-    "example": "the embattled leader faced criticism.",
-    "id": 113
+    "example": "the embattled leader faced criticism."
   },
   {
+    "id": 132,
     "word": "emphatic",
     "definition": "expressed forcefully and clearly",
     "synonym": "forceful",
     "antonym": "hesitant",
-    "example": "her emphatic no ended the discussion.",
-    "id": 114
+    "example": "her emphatic no ended the discussion."
   },
   {
+    "id": 133,
     "word": "emulate",
     "definition": "to imitate someone admired, usually in order to equal or surpass them",
     "synonym": "imitate",
     "antonym": "ignore",
-    "example": "young players often emulate their heroes.",
-    "id": 115
+    "example": "young players often emulate their heroes."
   },
   {
+    "id": 134,
     "word": "endeavor",
     "definition": "a serious or sustained attempt or effort",
     "synonym": "attempt",
     "antonym": "idleness",
-    "example": "the scientists worked together in an endeavor to find a cure.",
-    "id": 116
+    "example": "the scientists worked together in an endeavor to find a cure."
   },
   {
+    "id": 135,
     "word": "enervate",
     "definition": "to weaken or drain energy from",
     "synonym": "weaken",
     "antonym": "energize",
-    "example": "the long heat wave began to enervate the hikers.",
-    "id": 117
+    "example": "the long heat wave began to enervate the hikers."
   },
   {
+    "id": 136,
     "word": "enhance",
     "definition": "to improve or increase the quality, value, or strength of something",
     "synonym": "improve",
     "antonym": "diminish",
-    "example": "fresh herbs can enhance the flavor of soup.",
-    "id": 118
+    "example": "fresh herbs can enhance the flavor of soup."
   },
   {
+    "id": 137,
     "word": "epiphany",
     "definition": "a sudden realization or insight",
     "synonym": "realization",
     "antonym": "confusion",
-    "example": "during the walk, she had an epiphany about her project.",
-    "id": 119
+    "example": "during the walk, she had an epiphany about her project."
   },
   {
+    "id": 138,
     "word": "equanimity",
     "definition": "calmness and composure, especially in difficult circumstances",
     "synonym": "composure",
     "antonym": "agitation",
-    "example": "she faced the criticism with remarkable equanimity.",
-    "id": 120
+    "example": "she faced the criticism with remarkable equanimity."
   },
   {
+    "id": 139,
     "word": "equivocate",
     "definition": "to use deliberately vague or ambiguous language to avoid committing oneself",
     "synonym": "prevaricate",
     "antonym": "state plainly",
-    "example": "the witness tried to equivocate under pressure.",
-    "id": 121
+    "example": "the witness tried to equivocate under pressure."
   },
   {
+    "id": 140,
     "word": "erratic",
     "definition": "unpredictable or irregular in behavior or movement",
     "synonym": "unpredictable",
     "antonym": "steady",
-    "example": "the puppy made erratic movements across the yard.",
-    "id": 122
+    "example": "the puppy made erratic movements across the yard."
   },
   {
+    "id": 141,
     "word": "exacerbate",
     "definition": "to make a problem or bad situation worse",
     "synonym": "worsen",
     "antonym": "alleviate",
-    "example": "the delay will only exacerbate the problem.",
-    "id": 123
+    "example": "the delay will only exacerbate the problem."
   },
   {
+    "id": 142,
     "word": "exalt",
     "definition": "to praise or elevate highly",
     "synonym": "glorify",
     "antonym": "disparage",
-    "example": "the poem exalts courage and self-sacrifice.",
-    "id": 124
+    "example": "the poem exalts courage and self-sacrifice."
   },
   {
+    "id": 143,
     "word": "exasperate",
     "definition": "to irritate or annoy intensely",
     "synonym": "irritate",
     "antonym": "soothe",
-    "example": "his constant interruptions began to exasperate the teacher.",
-    "id": 125
+    "example": "his constant interruptions began to exasperate the teacher."
   },
   {
+    "id": 144,
     "word": "exemplary",
     "definition": "worthy of imitation; serving as an excellent example",
     "synonym": "outstanding",
     "antonym": "poor",
-    "example": "her exemplary conduct earned a reward.",
-    "id": 126
+    "example": "her exemplary conduct earned a reward."
   },
   {
+    "id": 145,
+    "word": "exertive",
+    "definition": "Involving or requiring physical or mental effort.",
+    "synonym": "strenuous",
+    "antonym": "effortless",
+    "example": "The exertive climb left the hikers exhausted."
+  },
+  {
+    "id": 146,
     "word": "exhaustive",
     "definition": "thorough and complete, covering every possibility",
     "synonym": "comprehensive",
     "antonym": "superficial",
-    "example": "the detective conducted an exhaustive investigation of the case.",
-    "id": 127
+    "example": "the detective conducted an exhaustive investigation of the case."
   },
   {
+    "id": 147,
     "word": "expedient",
     "definition": "convenient and practical, though sometimes improper or morally questionable",
     "synonym": "practical",
     "antonym": "impractical",
-    "example": "taking a shortcut was expedient",
-    "id": 128
+    "example": "taking a shortcut was expedient"
   },
   {
+    "id": 148,
     "word": "exquisite",
     "definition": "extremely beautiful, delicate, or skillfully made",
     "synonym": "superb",
     "antonym": "mediocre",
-    "example": "the museum displayed an exquisite porcelain vase.",
-    "id": 129
+    "example": "the museum displayed an exquisite porcelain vase."
   },
   {
+    "id": 149,
     "word": "exuberant",
     "definition": "full of energy, excitement, and enthusiasm",
     "synonym": "enthusiastic",
     "antonym": "restrained",
-    "example": "the children were exuberant after hearing the good news.",
-    "id": 130
+    "example": "the children were exuberant after hearing the good news."
   },
   {
+    "id": 150,
     "word": "fastidious",
     "definition": "very attentive to detail; difficult to please",
     "synonym": "particular",
     "antonym": "careless",
-    "example": "he is fastidious about keeping his desk clean.",
-    "id": 131
+    "example": "he is fastidious about keeping his desk clean."
   },
   {
+    "id": 151,
     "word": "feasible",
     "definition": "possible and practical to accomplish",
     "synonym": "practical",
     "antonym": "impossible",
-    "example": "the engineers found a feasible solution.",
-    "id": 132
+    "example": "the engineers found a feasible solution."
   },
   {
+    "id": 152,
     "word": "feeble",
     "definition": "weak and lacking strength",
     "synonym": "weak",
     "antonym": "strong",
-    "example": "after the illness, he felt feeble.",
-    "id": 133
+    "example": "after the illness, he felt feeble."
   },
   {
+    "id": 153,
     "word": "feud",
     "definition": "a prolonged and bitter quarrel",
     "synonym": "conflict",
     "antonym": "harmony",
-    "example": "the neighboring families ended their long feud.",
-    "id": 134
+    "example": "the neighboring families ended their long feud."
   },
   {
+    "id": 154,
     "word": "flagrant",
     "definition": "shockingly obvious and offensive",
     "synonym": "blatant",
     "antonym": "subtle",
-    "example": "it was a flagrant violation of the rules.",
-    "id": 135
+    "example": "it was a flagrant violation of the rules."
   },
   {
+    "id": 155,
+    "word": "flimsy",
+    "definition": "Weak, thin, or poorly made and therefore easily damaged.",
+    "synonym": "fragile",
+    "antonym": "sturdy",
+    "example": "The flimsy chair collapsed under the weight of the box."
+  },
+  {
+    "id": 156,
     "word": "flourish",
     "definition": "to grow or develop successfully; to thrive",
     "synonym": "prosper",
     "antonym": "decline",
-    "example": "with proper care, the seedlings will flourish.",
-    "id": 136
+    "example": "with proper care, the seedlings will flourish."
   },
   {
+    "id": 157,
     "word": "focal",
     "definition": "central or most important",
     "synonym": "central",
     "antonym": "peripheral",
-    "example": "the interview focused on the focal issue of education.",
-    "id": 137
+    "example": "the interview focused on the focal issue of education."
   },
   {
+    "id": 158,
+    "word": "foible",
+    "definition": "A minor weakness, flaw, or eccentricity in someone's character.",
+    "synonym": "weakness",
+    "antonym": "strength",
+    "example": "His tendency to misplace his keys was an amusing foible."
+  },
+  {
+    "id": 159,
     "word": "foist",
     "definition": "to force something unwanted or inferior upon someone",
     "synonym": "impose",
     "antonym": "withhold",
-    "example": "he tried to foist his unwanted responsibilities onto his colleague.",
-    "id": 138
+    "example": "he tried to foist his unwanted responsibilities onto his colleague."
   },
   {
+    "id": 160,
+    "word": "forestall",
+    "definition": "To prevent or hinder something by taking action in advance.",
+    "synonym": "prevent",
+    "antonym": "allow",
+    "example": "They acted quickly to forestall a potential crisis."
+  },
+  {
+    "id": 161,
     "word": "forlorn",
     "definition": "sad, lonely, and abandoned",
     "synonym": "desolate",
     "antonym": "hopeful",
-    "example": "The abandoned puppy looked forlorn.",
-    "id": 139
+    "example": "The abandoned puppy looked forlorn."
   },
   {
+    "id": 162,
+    "word": "formal",
+    "definition": "Following established rules, conventions, or official procedures; suitable for a serious occasion.",
+    "synonym": "official",
+    "antonym": "informal",
+    "example": "The ambassador wore formal attire to the ceremony."
+  },
+  {
+    "id": 163,
+    "word": "forswear",
+    "definition": "To give up or renounce something, often formally or under oath.",
+    "synonym": "renounce",
+    "antonym": "embrace",
+    "example": "She decided to forswear sweets for the remainder of the year."
+  },
+  {
+    "id": 164,
     "word": "frugal",
     "definition": "careful about spending money; economical",
     "synonym": "thrifty",
     "antonym": "extravagant",
-    "example": "a frugal shopper compares prices first.",
-    "id": 140
+    "example": "a frugal shopper compares prices first."
   },
   {
+    "id": 165,
     "word": "furtive",
     "definition": "secretive and attempting to avoid notice",
     "synonym": "secretive",
     "antonym": "open",
-    "example": "he cast a furtive glance at the answer key.",
-    "id": 141
+    "example": "he cast a furtive glance at the answer key."
   },
   {
+    "id": 166,
     "word": "garrulous",
     "definition": "excessively talkative",
     "synonym": "talkative",
     "antonym": "reserved",
-    "example": "the garrulous barber told stories all morning.",
-    "id": 142
+    "example": "the garrulous barber told stories all morning."
   },
   {
+    "id": 167,
     "word": "gauche",
     "definition": "socially awkward or lacking grace",
     "synonym": "awkward",
     "antonym": "graceful",
-    "example": "he felt gauche at the formal dinner.",
-    "id": 143
+    "example": "he felt gauche at the formal dinner."
   },
   {
+    "id": 168,
+    "word": "germane",
+    "definition": "Directly relevant to the matter being considered.",
+    "synonym": "relevant",
+    "antonym": "irrelevant",
+    "example": "Her comments were germane to the topic under discussion."
+  },
+  {
+    "id": 169,
     "word": "gist",
     "definition": "the main point or essential meaning",
     "synonym": "essence",
     "antonym": "detail",
-    "example": "i understood the gist of the lecture even though i missed a few points.",
-    "id": 144
+    "example": "i understood the gist of the lecture even though i missed a few points."
   },
   {
+    "id": 170,
+    "word": "glacial",
+    "definition": "Extremely slow, especially in progress, movement, or change.",
+    "synonym": "slow",
+    "antonym": "rapid",
+    "example": "Progress on the project continued at a glacial pace."
+  },
+  {
+    "id": 171,
     "word": "gossamer",
     "definition": "extremely light, thin, and delicate",
     "synonym": "delicate",
     "antonym": "coarse",
-    "example": "the butterfly’s wings were thin and gossamer.",
-    "id": 145
+    "example": "the butterfly’s wings were thin and gossamer."
   },
   {
+    "id": 172,
     "word": "gouge",
     "definition": "to make a rough hole or cut; to overcharge unfairly",
     "synonym": "scoop out",
     "antonym": "fill",
-    "example": "the sharp rock gouged a deep mark in the car door.",
-    "id": 146
+    "example": "the sharp rock gouged a deep mark in the car door."
   },
   {
+    "id": 173,
     "word": "hail",
     "definition": "to praise or acclaim enthusiastically",
     "synonym": "acclaim",
     "antonym": "condemn",
-    "example": "critics hailed the young author as a remarkable new talent.",
-    "id": 147
+    "example": "critics hailed the young author as a remarkable new talent."
   },
   {
+    "id": 174,
     "word": "hallowed",
     "definition": "regarded as holy, sacred, or greatly respected",
     "synonym": "sacred",
     "antonym": "ordinary",
-    "example": "they visited the hallowed memorial site.",
-    "id": 148
+    "example": "they visited the hallowed memorial site."
   },
   {
+    "id": 175,
     "word": "haphazard",
     "definition": "lacking order, planning, or organization",
     "synonym": "disorderly",
     "antonym": "systematic",
-    "example": "the books were stacked in a haphazard pile on the floor.",
-    "id": 149
+    "example": "the books were stacked in a haphazard pile on the floor."
   },
   {
+    "id": 176,
     "word": "hapless",
     "definition": "unfortunate or unlucky",
     "synonym": "unfortunate",
     "antonym": "fortunate",
-    "example": "the hapless traveler missed his flight and lost his luggage.",
-    "id": 150
+    "example": "the hapless traveler missed his flight and lost his luggage."
   },
   {
+    "id": 177,
     "word": "harbinger",
     "definition": "a sign or person that indicates something is approaching",
     "synonym": "forerunner",
     "antonym": "aftermath",
-    "example": "the first robin is often considered a harbinger of spring.",
-    "id": 151
+    "example": "the first robin is often considered a harbinger of spring."
   },
   {
+    "id": 178,
     "word": "harrowing",
     "definition": "extremely distressing or frightening",
     "synonym": "distressing",
     "antonym": "comforting",
-    "example": "the movie told a harrowing story of survival.",
-    "id": 152
+    "example": "the movie told a harrowing story of survival."
   },
   {
+    "id": 179,
     "word": "hasty",
     "definition": "done too quickly and without enough thought",
     "synonym": "rash",
     "antonym": "deliberate",
-    "example": "a hasty decision can cause problems later.",
-    "id": 153
+    "example": "a hasty decision can cause problems later."
   },
   {
+    "id": 180,
     "word": "haughty",
     "definition": "arrogantly superior and disdainful",
     "synonym": "arrogant",
     "antonym": "humble",
-    "example": "the haughty nobleman considered himself superior to everyone else.",
-    "id": 154
+    "example": "the haughty nobleman considered himself superior to everyone else."
   },
   {
+    "id": 181,
     "word": "hiatus",
     "definition": "a pause or interruption in an activity or sequence",
     "synonym": "break",
     "antonym": "continuation",
-    "example": "the magazine returned after a two-year hiatus.",
-    "id": 155
+    "example": "the magazine returned after a two-year hiatus."
   },
   {
+    "id": 182,
     "word": "hinder",
     "definition": "to create difficulties that slow or prevent progress",
     "synonym": "impede",
     "antonym": "assist",
-    "example": "fog can hinder travel.",
-    "id": 156
+    "example": "fog can hinder travel."
   },
   {
+    "id": 183,
     "word": "hunker",
     "definition": "to crouch down or take shelter, often for an extended period",
     "synonym": "crouch",
     "antonym": "stand upright",
-    "example": "the campers hunkered down in their tents during the storm.",
-    "id": 157
+    "example": "the campers hunkered down in their tents during the storm."
   },
   {
+    "id": 184,
     "word": "iconoclast",
     "definition": "a person who challenges established beliefs, traditions, or institutions",
     "synonym": "rebel",
     "antonym": "traditionalist",
-    "example": "the iconoclast challenged long-held beliefs.",
-    "id": 158
+    "example": "the iconoclast challenged long-held beliefs."
   },
   {
+    "id": 185,
     "word": "idle",
     "definition": "inactive or not being used; avoiding work",
     "synonym": "inactive",
     "antonym": "busy",
-    "example": "the factory remained idle while the machines were being repaired.",
-    "id": 159
+    "example": "the factory remained idle while the machines were being repaired."
   },
   {
+    "id": 186,
     "word": "idyllic",
     "definition": "peaceful, beautiful, and seemingly perfect",
     "synonym": "peaceful",
     "antonym": "chaotic",
-    "example": "they spent an idyllic summer by the lake.",
-    "id": 160
+    "example": "they spent an idyllic summer by the lake."
   },
   {
+    "id": 187,
     "word": "immaculate",
     "definition": "perfectly clean or free from flaws",
     "synonym": "spotless",
     "antonym": "filthy",
-    "example": "the kitchen was immaculate after she cleaned it.",
-    "id": 161
+    "example": "the kitchen was immaculate after she cleaned it."
   },
   {
+    "id": 188,
     "word": "impartial",
     "definition": "fair and unbiased",
     "synonym": "fair",
     "antonym": "biased",
-    "example": "a judge must remain impartial.",
-    "id": 162
+    "example": "a judge must remain impartial."
   },
   {
+    "id": 189,
     "word": "impeccable",
     "definition": "faultless; of the highest standard",
     "synonym": "flawless",
     "antonym": "faulty",
-    "example": "she has impeccable manners.",
-    "id": 163
+    "example": "she has impeccable manners."
   },
   {
+    "id": 190,
     "word": "impede",
     "definition": "to delay, obstruct, or interfere with progress",
     "synonym": "obstruct",
     "antonym": "facilitate",
-    "example": "fallen branches impede the path.",
-    "id": 164
+    "example": "fallen branches impede the path."
   },
   {
+    "id": 191,
+    "word": "imperious",
+    "definition": "Arrogantly commanding and expecting unquestioning obedience.",
+    "synonym": "domineering",
+    "antonym": "submissive",
+    "example": "She issued an imperious command and expected everyone to obey immediately."
+  },
+  {
+    "id": 192,
+    "word": "impetuous",
+    "definition": "Acting quickly and without sufficient thought or care.",
+    "synonym": "impulsive",
+    "antonym": "cautious",
+    "example": "His impetuous decision to quit his job left him with few options."
+  },
+  {
+    "id": 193,
     "word": "inconsequential",
     "definition": "too unimportant to matter",
     "synonym": "trivial",
     "antonym": "important",
-    "example": "the error was inconsequential and easy to fix.",
-    "id": 165
+    "example": "the error was inconsequential and easy to fix."
   },
   {
+    "id": 194,
     "word": "indifferent",
     "definition": "showing no particular interest, concern, or preference",
     "synonym": "unconcerned",
     "antonym": "interested",
-    "example": "he seemed indifferent to the outcome.",
-    "id": 166
+    "example": "he seemed indifferent to the outcome."
   },
   {
+    "id": 195,
     "word": "indolent",
     "definition": "lazy and avoiding effort",
     "synonym": "lazy",
     "antonym": "industrious",
-    "example": "the indolent student rarely finished his homework.",
-    "id": 167
+    "example": "the indolent student rarely finished his homework."
   },
   {
+    "id": 196,
     "word": "inept",
     "definition": "lacking skill or ability; incompetent",
     "synonym": "clumsy",
     "antonym": "competent",
-    "example": "the inept waiter spilled water twice.",
-    "id": 168
+    "example": "the inept waiter spilled water twice."
   },
   {
+    "id": 197,
     "word": "inevitable",
     "definition": "certain to happen; unavoidable",
     "synonym": "unavoidable",
     "antonym": "preventable",
-    "example": "after dark clouds gathered, rain seemed inevitable.",
-    "id": 169
+    "example": "after dark clouds gathered, rain seemed inevitable."
   },
   {
+    "id": 198,
+    "word": "informal",
+    "definition": "Relaxed and casual; not following strict rules, conventions, or official procedures.",
+    "synonym": "casual",
+    "antonym": "formal",
+    "example": "The meeting was informal, allowing everyone to speak freely."
+  },
+  {
+    "id": 199,
     "word": "ingenious",
     "definition": "clever, original, and inventive",
     "synonym": "inventive",
     "antonym": "unimaginative",
-    "example": "she built an ingenious device from spare parts.",
-    "id": 170
+    "example": "she built an ingenious device from spare parts."
   },
   {
+    "id": 200,
     "word": "inherit",
     "definition": "to receive property, characteristics, or qualities from a predecessor",
     "synonym": "receive",
     "antonym": "forfeit",
-    "example": "he will inherit his grandfather's watch.",
-    "id": 171
+    "example": "he will inherit his grandfather's watch."
   },
   {
+    "id": 201,
     "word": "inhibit",
     "definition": "to restrain, prevent, or slow down an action or process",
     "synonym": "restrain",
     "antonym": "encourage",
-    "example": "fear can inhibit creativity.",
-    "id": 172
+    "example": "fear can inhibit creativity."
   },
   {
+    "id": 202,
     "word": "initiate",
     "definition": "to begin or set something in motion",
     "synonym": "begin",
     "antonym": "end",
-    "example": "they will initiate the experiment tomorrow.",
-    "id": 173
+    "example": "they will initiate the experiment tomorrow."
   },
   {
+    "id": 203,
     "word": "innovate",
     "definition": "to introduce new ideas, methods, or products",
     "synonym": "create",
     "antonym": "stagnate",
-    "example": "small companies often innovate quickly.",
-    "id": 174
+    "example": "small companies often innovate quickly."
   },
   {
+    "id": 204,
     "word": "insidious",
     "definition": "developing gradually and harmfully in a way that is difficult to notice",
     "synonym": "stealthy",
     "antonym": "obvious",
-    "example": "the disease had an insidious onset.",
-    "id": 175
+    "example": "the disease had an insidious onset."
   },
   {
+    "id": 205,
     "word": "insipid",
     "definition": "dull, bland, or lacking interest",
     "synonym": "dull",
     "antonym": "stimulating",
-    "example": "the lecture was so insipid that students yawned.",
-    "id": 176
+    "example": "the lecture was so insipid that students yawned."
   },
   {
+    "id": 206,
     "word": "insolent",
     "definition": "rude and disrespectful, especially toward authority",
     "synonym": "disrespectful",
     "antonym": "respectful",
-    "example": "the insolent student spoke rudely to his teacher.",
-    "id": 177
+    "example": "the insolent student spoke rudely to his teacher."
   },
   {
+    "id": 207,
     "word": "instance",
     "definition": "an example or particular occurrence of something",
     "synonym": "example",
     "antonym": "counterexample",
-    "example": "for instance, a whale is a mammal.",
-    "id": 178
+    "example": "for instance, a whale is a mammal."
   },
   {
+    "id": 208,
     "word": "integrate",
     "definition": "to combine parts into a unified whole",
     "synonym": "combine",
     "antonym": "separate",
-    "example": "the program helps new students integrate into the school.",
-    "id": 179
+    "example": "the program helps new students integrate into the school."
   },
   {
+    "id": 209,
     "word": "intellectual",
     "definition": "relating to the ability to think, reason, and understand complex ideas",
     "synonym": "scholarly",
     "antonym": "unthinking",
-    "example": "the debate attracted an intellectual crowd.",
-    "id": 180
+    "example": "the debate attracted an intellectual crowd."
   },
   {
+    "id": 210,
     "word": "intense",
     "definition": "very strong, extreme, or concentrated",
     "synonym": "extreme",
     "antonym": "mild",
-    "example": "the intense heat kept everyone indoors.",
-    "id": 181
+    "example": "the intense heat kept everyone indoors."
   },
   {
+    "id": 211,
     "word": "interact",
     "definition": "to communicate or act with others in a way that affects one another",
     "synonym": "engage",
     "antonym": "avoid",
-    "example": "students interact during group work.",
-    "id": 182
+    "example": "students interact during group work."
   },
   {
+    "id": 212,
     "word": "interpret",
     "definition": "to explain or determine the meaning of something",
     "synonym": "explain",
     "antonym": "misread",
-    "example": "how do you interpret this poem?",
-    "id": 183
+    "example": "how do you interpret this poem?"
   },
   {
+    "id": 213,
     "word": "intervene",
     "definition": "to become involved in order to change or prevent an outcome",
     "synonym": "intercede",
     "antonym": "ignore",
-    "example": "teachers may intervene when conflict arises.",
-    "id": 184
+    "example": "teachers may intervene when conflict arises."
   },
   {
+    "id": 214,
     "word": "intransigent",
     "definition": "unwilling to change one's views or agree to compromise",
     "synonym": "unyielding",
     "antonym": "flexible",
-    "example": "the intransigent manager refused all compromise.",
-    "id": 185
+    "example": "the intransigent manager refused all compromise."
   },
   {
+    "id": 215,
     "word": "intrepid",
     "definition": "fearless and adventurous",
     "synonym": "fearless",
     "antonym": "timid",
-    "example": "the intrepid climber reached the summit first.",
-    "id": 186
+    "example": "the intrepid climber reached the summit first."
   },
   {
+    "id": 216,
     "word": "intricate",
     "definition": "very complicated or detailed, with many interconnected parts",
     "synonym": "complex",
     "antonym": "simple",
-    "example": "the watch contained an intricate arrangement of gears.",
-    "id": 187
+    "example": "the watch contained an intricate arrangement of gears."
   },
   {
+    "id": 217,
     "word": "intriguing",
     "definition": "interesting because it is unusual, mysterious, or complex",
     "synonym": "fascinating",
     "antonym": "boring",
-    "example": "the mystery novel had an intriguing opening.",
-    "id": 188
+    "example": "the mystery novel had an intriguing opening."
   },
   {
+    "id": 218,
     "word": "invaluable",
     "definition": "Extremely useful or valuable; so valuable that its worth cannot easily be measured.",
     "synonym": "priceless",
     "antonym": "worthless",
-    "example": "Her experience proved invaluable during the difficult negotiations.",
-    "id": 189
+    "example": "Her experience proved invaluable during the difficult negotiations."
   },
   {
+    "id": 219,
+    "word": "invidious",
+    "definition": "Likely to cause resentment or offense, especially through unfair discrimination or comparison.",
+    "synonym": "offensive",
+    "antonym": "inoffensive",
+    "example": "The new rule created an invidious distinction between two groups of students."
+  },
+  {
+    "id": 220,
     "word": "irate",
     "definition": "extremely angry",
     "synonym": "furious",
     "antonym": "calm",
-    "example": "The customer was irate after receiving the wrong order.",
-    "id": 190
+    "example": "The customer was irate after receiving the wrong order."
   },
   {
+    "id": 221,
     "word": "isolate",
     "definition": "to separate from others or place alone",
     "synonym": "separate",
     "antonym": "connect",
-    "example": "the lab can isolate the chemical safely.",
-    "id": 191
+    "example": "the lab can isolate the chemical safely."
   },
   {
+    "id": 222,
+    "word": "jaunty",
+    "definition": "Lively, cheerful, and self-confident in manner or appearance.",
+    "synonym": "lively",
+    "antonym": "dejected",
+    "example": "He walked into the room with a jaunty step and a cheerful smile."
+  },
+  {
+    "id": 223,
+    "word": "jocular",
+    "definition": "Fond of joking; humorous and playful.",
+    "synonym": "jovial",
+    "antonym": "solemn",
+    "example": "Despite the tense situation, she maintained a jocular tone."
+  },
+  {
+    "id": 224,
     "word": "jovial",
     "definition": "cheerful and friendly",
     "synonym": "cheerful",
     "antonym": "gloomy",
-    "example": "his jovial laugh filled the room.",
-    "id": 192
+    "example": "his jovial laugh filled the room."
   },
   {
+    "id": 225,
     "word": "jubilee",
     "definition": "a special celebration, especially an anniversary",
     "synonym": "celebration",
     "antonym": "mourning",
-    "example": "the town held a jubilee for its centennial.",
-    "id": 193
+    "example": "the town held a jubilee for its centennial."
   },
   {
+    "id": 226,
     "word": "judicious",
     "definition": "showing good judgment and careful thought",
     "synonym": "wise",
     "antonym": "foolish",
-    "example": "a judicious choice now can save time later.",
-    "id": 194
+    "example": "a judicious choice now can save time later."
   },
   {
+    "id": 227,
     "word": "keen",
     "definition": "eager, sharp, or highly perceptive",
     "synonym": "eager",
     "antonym": "apathetic",
-    "example": "she has a keen interest in astronomy.",
-    "id": 195
+    "example": "she has a keen interest in astronomy."
   },
   {
+    "id": 228,
+    "word": "knave",
+    "definition": "A dishonest or unscrupulous man.",
+    "synonym": "scoundrel",
+    "antonym": "gentleman",
+    "example": "The dishonest merchant was exposed as a knave who had cheated his customers."
+  },
+  {
+    "id": 229,
     "word": "labile",
     "definition": "liable to change rapidly; unstable",
     "synonym": "unstable",
     "antonym": "stable",
-    "example": "his mood remained labile throughout the day.",
-    "id": 196
+    "example": "his mood remained labile throughout the day."
   },
   {
+    "id": 230,
     "word": "laconic",
     "definition": "using very few words",
     "synonym": "brief",
     "antonym": "wordy",
-    "example": "his laconic reply ended the conversation.",
-    "id": 197
+    "example": "his laconic reply ended the conversation."
   },
   {
+    "id": 231,
     "word": "languish",
     "definition": "to remain in an unpleasant or neglected condition; to weaken or decline",
     "synonym": "deteriorate",
     "antonym": "flourish",
-    "example": "without funding, the project began to languish.",
-    "id": 198
+    "example": "without funding, the project began to languish."
   },
   {
+    "id": 232,
     "word": "lavish",
     "definition": "very generous or extravagant; abundant",
     "synonym": "extravagant",
     "antonym": "meager",
-    "example": "they hosted a lavish banquet.",
-    "id": 199
+    "example": "they hosted a lavish banquet."
   },
   {
+    "id": 233,
     "word": "leeway",
     "definition": "freedom or flexibility to act within certain limits",
     "synonym": "flexibility",
     "antonym": "restriction",
-    "example": "The teacher gave us some leeway in choosing our project topics.",
-    "id": 200
+    "example": "The teacher gave us some leeway in choosing our project topics."
   },
   {
+    "id": 234,
     "word": "lenient",
     "definition": "merciful or not strict in punishment or discipline",
     "synonym": "merciful",
     "antonym": "strict",
-    "example": "the lenient coach allowed one more chance.",
-    "id": 201
+    "example": "the lenient coach allowed one more chance."
   },
   {
+    "id": 235,
     "word": "lethargic",
     "definition": "sluggish and lacking energy",
     "synonym": "sluggish",
     "antonym": "energetic",
-    "example": "after staying up too late he felt lethargic all morning.",
-    "id": 202
+    "example": "after staying up too late he felt lethargic all morning."
   },
   {
+    "id": 236,
     "word": "liminal",
     "definition": "relating to a transitional or in-between state",
     "synonym": "transitional",
     "antonym": "permanent",
-    "example": "graduation marks a liminal stage between school and adulthood.",
-    "id": 203
+    "example": "graduation marks a liminal stage between school and adulthood."
   },
   {
+    "id": 237,
     "word": "lingo",
     "definition": "specialized or informal vocabulary used by a particular group",
     "synonym": "jargon",
     "antonym": "standard language",
-    "example": "it took him a while to understand the technical lingo used by the engineers.",
-    "id": 204
+    "example": "it took him a while to understand the technical lingo used by the engineers."
   },
   {
+    "id": 238,
     "word": "loath",
     "definition": "reluctant or unwilling",
     "synonym": "reluctant",
     "antonym": "eager",
-    "example": "i am loath to criticize someone without knowing the facts.",
-    "id": 205
+    "example": "i am loath to criticize someone without knowing the facts."
   },
   {
+    "id": 239,
     "word": "loathe",
     "definition": "to hate intensely",
     "synonym": "detest",
     "antonym": "cherish",
-    "example": "she loathes dishonesty.",
-    "id": 206
+    "example": "she loathes dishonesty."
   },
   {
+    "id": 240,
     "word": "lobby",
     "definition": "to attempt to influence public officials or decision-makers",
     "synonym": "advocate",
     "antonym": "oppose",
-    "example": "environmental groups lobbied lawmakers for stricter pollution laws.",
-    "id": 207
+    "example": "environmental groups lobbied lawmakers for stricter pollution laws."
   },
   {
+    "id": 241,
     "word": "lofty",
     "definition": "elevated in height, rank, or ideals; noble or ambitious",
     "synonym": "elevated",
     "antonym": "humble",
-    "example": "she had lofty ambitions for her career.",
-    "id": 208
+    "example": "she had lofty ambitions for her career."
   },
   {
+    "id": 242,
     "word": "lucid",
     "definition": "clear and easy to understand",
     "synonym": "clear",
     "antonym": "confusing",
-    "example": "her lucid explanation helped everyone understand.",
-    "id": 209
+    "example": "her lucid explanation helped everyone understand."
   },
   {
+    "id": 243,
+    "word": "ludicrous",
+    "definition": "So foolish, unreasonable, or absurd as to provoke ridicule.",
+    "synonym": "absurd",
+    "antonym": "reasonable",
+    "example": "The suggestion that we could finish a month's work in one afternoon was ludicrous."
+  },
+  {
+    "id": 244,
     "word": "magnanimous",
     "definition": "very generous and forgiving, especially toward a rival",
     "synonym": "generous",
     "antonym": "petty",
-    "example": "the magnanimous winner praised his opponent.",
-    "id": 210
+    "example": "the magnanimous winner praised his opponent."
   },
   {
+    "id": 245,
     "word": "mandate",
     "definition": "an authoritative command or official requirement",
     "synonym": "command",
     "antonym": "suggestion",
-    "example": "the new law mandates that all passengers wear seat belts.",
-    "id": 211
+    "example": "the new law mandates that all passengers wear seat belts."
   },
   {
+    "id": 246,
     "word": "maverick",
     "definition": "an independent-minded person who rejects conventional rules or ideas",
     "synonym": "nonconformist",
     "antonym": "conformist",
-    "example": "the scientist was a maverick who challenged conventional theories.",
-    "id": 212
+    "example": "the scientist was a maverick who challenged conventional theories."
   },
   {
+    "id": 247,
     "word": "meandering",
     "definition": "wandering indirectly rather than following a direct course",
     "synonym": "winding",
     "antonym": "direct",
-    "example": "we followed the meandering trail through the woods.",
-    "id": 213
+    "example": "we followed the meandering trail through the woods."
   },
   {
+    "id": 248,
     "word": "mediate",
     "definition": "to help opposing sides reach an agreement",
     "synonym": "reconcile",
     "antonym": "inflame",
-    "example": "a counselor helped mediate the dispute.",
-    "id": 214
+    "example": "a counselor helped mediate the dispute."
   },
   {
+    "id": 249,
     "word": "meek",
     "definition": "quiet, gentle, and submissive",
     "synonym": "submissive",
     "antonym": "assertive",
-    "example": "the meek student rarely spoke up during class discussions.",
-    "id": 215
+    "example": "the meek student rarely spoke up during class discussions."
   },
   {
+    "id": 250,
     "word": "mendacious",
     "definition": "dishonest or untruthful",
     "synonym": "dishonest",
     "antonym": "truthful",
-    "example": "the mendacious salesman could not be trusted.",
-    "id": 216
+    "example": "the mendacious salesman could not be trusted."
   },
   {
+    "id": 251,
     "word": "mercurial",
     "definition": "changing moods or behavior suddenly and unpredictably",
     "synonym": "temperamental",
     "antonym": "stable",
-    "example": "her mercurial moods kept everyone guessing.",
-    "id": 217
+    "example": "her mercurial moods kept everyone guessing."
   },
   {
+    "id": 252,
     "word": "meticulous",
     "definition": "extremely careful and precise about details",
     "synonym": "careful",
     "antonym": "sloppy",
-    "example": "the meticulous editor caught every typo.",
-    "id": 218
+    "example": "the meticulous editor caught every typo."
   },
   {
+    "id": 253,
     "word": "militia",
     "definition": "A military force composed mainly of ordinary citizens rather than professional soldiers.",
     "synonym": "armed force",
     "antonym": "civilians",
-    "example": "The local militia was called upon to defend the town.",
-    "id": 219
+    "example": "The local militia was called upon to defend the town."
   },
   {
+    "id": 254,
     "word": "miry",
     "definition": "muddy or swampy",
     "synonym": "muddy",
     "antonym": "dry",
-    "example": "the hikers struggled along the miry path after the heavy rain.",
-    "id": 220
+    "example": "the hikers struggled along the miry path after the heavy rain."
   },
   {
+    "id": 255,
     "word": "miscellaneous",
     "definition": "consisting of various different kinds of things",
     "synonym": "assorted",
     "antonym": "uniform",
-    "example": "the drawer contained miscellaneous items including keys, coins and batteries",
-    "id": 221
+    "example": "the drawer contained miscellaneous items including keys, coins and batteries"
   },
   {
+    "id": 256,
+    "word": "misdeem",
+    "definition": "To judge or regard someone or something incorrectly.",
+    "synonym": "misjudge",
+    "antonym": "assess correctly",
+    "example": "Do not misdeem his quiet manner as a sign of weakness."
+  },
+  {
+    "id": 257,
     "word": "mitigate",
     "definition": "to make something harmful or unpleasant less severe",
     "synonym": "lessen",
     "antonym": "intensify",
-    "example": "trees help mitigate the summer heat.",
-    "id": 222
+    "example": "trees help mitigate the summer heat."
   },
   {
+    "id": 258,
     "word": "moderate",
     "definition": "reasonable and not extreme; to make less intense",
     "synonym": "temperate",
     "antonym": "extreme",
-    "example": "the judge urged a moderate response.",
-    "id": 223
+    "example": "the judge urged a moderate response."
   },
   {
+    "id": 259,
     "word": "modify",
     "definition": "to make partial changes to something",
     "synonym": "alter",
     "antonym": "preserve",
-    "example": "we may need to modify the schedule.",
-    "id": 224
+    "example": "we may need to modify the schedule."
   },
   {
+    "id": 260,
     "word": "mollify",
     "definition": "to calm someone's anger or anxiety",
     "synonym": "soothe",
     "antonym": "aggravate",
-    "example": "she tried to mollify the angry customer with an apology.",
-    "id": 225
+    "example": "she tried to mollify the angry customer with an apology."
   },
   {
+    "id": 261,
     "word": "moniker",
     "definition": "a name or nickname by which someone or something is known",
     "synonym": "nickname",
     "antonym": "given name",
-    "example": "the famous athlete earned the moniker \"the rocket\" because of his speed.",
-    "id": 226
+    "example": "the famous athlete earned the moniker \"the rocket\" because of his speed."
   },
   {
+    "id": 262,
     "word": "monitor",
     "definition": "to observe or check something over time",
     "synonym": "observe",
     "antonym": "neglect",
-    "example": "nurses monitor the patient closely.",
-    "id": 227
+    "example": "nurses monitor the patient closely."
   },
   {
+    "id": 263,
     "word": "moot",
     "definition": "irrelevant or no longer important because circumstances have changed",
     "synonym": "irrelevant",
     "antonym": "relevant",
-    "example": "his objection became moot once the problem had already been resolved.",
-    "id": 228
+    "example": "his objection became moot once the problem had already been resolved."
   },
   {
+    "id": 264,
     "word": "mutual",
     "definition": "shared or experienced by two or more parties",
     "synonym": "shared",
     "antonym": "one-sided",
-    "example": "their trust was mutual.",
-    "id": 229
+    "example": "their trust was mutual."
   },
   {
+    "id": 265,
     "word": "myopic",
     "definition": "narrow-minded or lacking foresight; literally, nearsighted",
     "synonym": "shortsighted",
     "antonym": "farseeing",
-    "example": "a myopic plan ignores future costs.",
-    "id": 230
+    "example": "a myopic plan ignores future costs."
   },
   {
+    "id": 266,
     "word": "navigate",
     "definition": "to find or follow a route; to manage one's way through a difficult situation",
     "synonym": "steer",
     "antonym": "wander",
-    "example": "we used a map to navigate the city.",
-    "id": 231
+    "example": "we used a map to navigate the city."
   },
   {
+    "id": 267,
     "word": "nefarious",
     "definition": "wicked, criminal, or extremely evil",
     "synonym": "wicked",
     "antonym": "honorable",
-    "example": "the villain carried out a nefarious scheme.",
-    "id": 232
+    "example": "the villain carried out a nefarious scheme."
   },
   {
+    "id": 268,
     "word": "negligent",
     "definition": "failing to give proper care or attention",
     "synonym": "careless",
     "antonym": "attentive",
-    "example": "the negligent driver caused the crash.",
-    "id": 233
+    "example": "the negligent driver caused the crash."
   },
   {
+    "id": 269,
     "word": "ninny",
     "definition": "a foolish or silly person",
     "synonym": "fool",
     "antonym": "genius",
-    "example": "don't be such a ninny.",
-    "id": 234
+    "example": "don't be such a ninny."
   },
   {
+    "id": 270,
     "word": "nonchalant",
     "definition": "calmly unconcerned or casually indifferent",
     "synonym": "casual",
     "antonym": "anxious",
-    "example": "she sounded nonchalant before the final exam.",
-    "id": 235
+    "example": "she sounded nonchalant before the final exam."
   },
   {
+    "id": 271,
     "word": "novice",
     "definition": "a beginner who lacks experience",
     "synonym": "beginner",
     "antonym": "expert",
-    "example": "the novice chess player studied basic openings.",
-    "id": 236
+    "example": "the novice chess player studied basic openings."
   },
   {
+    "id": 272,
     "word": "noxious",
     "definition": "harmful, poisonous, or unpleasant",
     "synonym": "harmful",
     "antonym": "harmless",
-    "example": "the factory released noxious fumes into the air.",
-    "id": 237
+    "example": "the factory released noxious fumes into the air."
   },
   {
+    "id": 273,
+    "word": "obdurate",
+    "definition": "Stubbornly refusing to change one's opinion or course of action.",
+    "synonym": "unyielding",
+    "antonym": "compliant",
+    "example": "The obdurate official refused to reconsider his decision."
+  },
+  {
+    "id": 274,
     "word": "obfuscate",
     "definition": "to make something unclear or difficult to understand",
     "synonym": "confuse",
     "antonym": "clarify",
-    "example": "the speaker used jargon to obfuscate the issue.",
-    "id": 238
+    "example": "the speaker used jargon to obfuscate the issue."
   },
   {
+    "id": 275,
     "word": "obscure",
     "definition": "not well known or difficult to understand or see",
     "synonym": "unclear",
     "antonym": "obvious",
-    "example": "the poem's meaning remained obscure.",
-    "id": 239
+    "example": "the poem's meaning remained obscure."
   },
   {
+    "id": 276,
     "word": "obsequious",
     "definition": "excessively eager to please or obey",
     "synonym": "servile",
     "antonym": "assertive",
-    "example": "the obsequious assistant agreed with everything.",
-    "id": 240
+    "example": "the obsequious assistant agreed with everything."
   },
   {
+    "id": 277,
     "word": "obsolete",
     "definition": "no longer used or useful because something newer has replaced it",
     "synonym": "outdated",
     "antonym": "current",
-    "example": "the old machine became obsolete.",
-    "id": 241
+    "example": "the old machine became obsolete."
   },
   {
+    "id": 278,
     "word": "obstinate",
     "definition": "stubbornly refusing to change one's opinion or course of action",
     "synonym": "stubborn",
     "antonym": "compliant",
-    "example": "the obstinate mule would not move.",
-    "id": 242
+    "example": "the obstinate mule would not move."
   },
   {
+    "id": 279,
     "word": "obstruct",
     "definition": "to block, hinder, or prevent progress",
     "synonym": "block",
     "antonym": "clear",
-    "example": "a fallen tree can obstruct the road.",
-    "id": 243
+    "example": "a fallen tree can obstruct the road."
   },
   {
+    "id": 280,
+    "word": "obviate",
+    "definition": "To remove a difficulty or need, making something unnecessary.",
+    "synonym": "eliminate",
+    "antonym": "necessitate",
+    "example": "The new software may obviate the need for several manual steps."
+  },
+  {
+    "id": 281,
     "word": "omit",
     "definition": "to leave out or exclude",
     "synonym": "exclude",
     "antonym": "include",
-    "example": "Be careful not to omit any important details from your report.",
-    "id": 244
+    "example": "Be careful not to omit any important details from your report."
   },
   {
+    "id": 282,
     "word": "ooze",
     "definition": "to flow slowly and thickly; to seep",
     "synonym": "seep",
     "antonym": "dry up",
-    "example": "sap began to ooze from the bark.",
-    "id": 245
+    "example": "sap began to ooze from the bark."
   },
   {
+    "id": 283,
     "word": "opportune",
     "definition": "occurring at a favorable or convenient time",
     "synonym": "timely",
     "antonym": "untimely",
-    "example": "we waited for the opportune moment to speak.",
-    "id": 246
+    "example": "we waited for the opportune moment to speak."
   },
   {
+    "id": 284,
     "word": "optimal",
     "definition": "best or most favorable under given circumstances",
     "synonym": "best",
     "antonym": "inferior",
-    "example": "the greenhouse keeps plants at an optimal temperature.",
-    "id": 247
+    "example": "the greenhouse keeps plants at an optimal temperature."
   },
   {
+    "id": 285,
     "word": "optimize",
     "definition": "to make something as effective or efficient as possible",
     "synonym": "improve",
     "antonym": "worsen",
-    "example": "engineers optimize the design for speed.",
-    "id": 248
+    "example": "engineers optimize the design for speed."
   },
   {
+    "id": 286,
+    "word": "orator",
+    "definition": "A person who is skilled at giving formal or persuasive speeches.",
+    "synonym": "speaker",
+    "antonym": "listener",
+    "example": "The gifted orator held the audience's attention for nearly an hour."
+  },
+  {
+    "id": 287,
     "word": "orthodox",
     "definition": "following established or traditional beliefs or practices",
     "synonym": "conventional",
     "antonym": "unconventional",
-    "example": "he preferred an orthodox approach to solving the problem.",
-    "id": 249
+    "example": "he preferred an orthodox approach to solving the problem."
   },
   {
+    "id": 288,
     "word": "outcast",
     "definition": "a person who has been rejected or excluded from a group",
     "synonym": "exile",
     "antonym": "insider",
-    "example": "after betraying the group, he was treated as an outcast.",
-    "id": 250
+    "example": "after betraying the group, he was treated as an outcast."
   },
   {
+    "id": 289,
     "word": "paradigm",
     "definition": "a model, pattern, or typical example that shapes how something is understood",
     "synonym": "model",
     "antonym": "anomaly",
-    "example": "the invention marked a new paradigm in communication technology.",
-    "id": 251
+    "example": "the invention marked a new paradigm in communication technology."
   },
   {
+    "id": 290,
     "word": "pellucid",
     "definition": "extremely clear and easy to understand",
     "synonym": "transparent",
     "antonym": "opaque",
-    "example": "the stream was pellucid after the storm passed.",
-    "id": 252
+    "example": "the stream was pellucid after the storm passed."
   },
   {
+    "id": 291,
     "word": "perceive",
     "definition": "to become aware of or understand through the senses or mind",
     "synonym": "discern",
     "antonym": "overlook",
-    "example": "bats perceive sounds humans cannot hear.",
-    "id": 253
+    "example": "bats perceive sounds humans cannot hear."
   },
   {
+    "id": 292,
     "word": "perfidious",
     "definition": "treacherous and untrustworthy",
     "synonym": "treacherous",
     "antonym": "loyal",
-    "example": "the perfidious spy betrayed his allies.",
-    "id": 254
+    "example": "the perfidious spy betrayed his allies."
   },
   {
+    "id": 293,
     "word": "perilous",
     "definition": "dangerous or risky",
     "synonym": "dangerous",
     "antonym": "safe",
-    "example": "sailors avoided the perilous rocks.",
-    "id": 255
+    "example": "sailors avoided the perilous rocks."
   },
   {
+    "id": 294,
     "word": "perspire",
     "definition": "to sweat",
     "synonym": "sweat",
     "antonym": "shiver",
-    "example": "athletes perspire during hard workouts.",
-    "id": 256
+    "example": "athletes perspire during hard workouts."
   },
   {
+    "id": 295,
+    "word": "phlegmatic",
+    "definition": "Calm, unemotional, and not easily excited.",
+    "synonym": "unemotional",
+    "antonym": "excitable",
+    "example": "His phlegmatic temperament allowed him to remain calm during the emergency."
+  },
+  {
+    "id": 296,
     "word": "pioneer",
     "definition": "a person who is among the first to develop or explore something; to lead the way",
     "synonym": "innovator",
     "antonym": "follower",
-    "example": "she was a pioneer in the field of computer science.",
-    "id": 257
+    "example": "she was a pioneer in the field of computer science."
   },
   {
+    "id": 297,
+    "word": "pious",
+    "definition": "Deeply religious and showing sincere devotion to religious beliefs.",
+    "synonym": "devout",
+    "antonym": "impious",
+    "example": "The pious woman attended religious services regularly."
+  },
+  {
+    "id": 298,
+    "word": "pithy",
+    "definition": "Brief, forceful, and full of meaning.",
+    "synonym": "concise",
+    "antonym": "verbose",
+    "example": "Her pithy response summarized the complicated issue in a single sentence."
+  },
+  {
+    "id": 299,
     "word": "plausible",
     "definition": "seemingly reasonable or believable",
     "synonym": "credible",
     "antonym": "unlikely",
-    "example": "her excuse sounded plausible at first.",
-    "id": 258
+    "example": "her excuse sounded plausible at first."
   },
   {
+    "id": 300,
     "word": "pragmatic",
     "definition": "practical and focused on what works",
     "synonym": "practical",
     "antonym": "idealistic",
-    "example": "we need a pragmatic plan, not wishful thinking.",
-    "id": 259
+    "example": "we need a pragmatic plan, not wishful thinking."
   },
   {
+    "id": 301,
     "word": "predominant",
     "definition": "most common, powerful, or influential",
     "synonym": "main",
     "antonym": "minor",
-    "example": "blue is the predominant color in the painting.",
-    "id": 260
+    "example": "blue is the predominant color in the painting."
   },
   {
+    "id": 302,
     "word": "pregnant",
     "definition": "full of significance or meaning; suggesting important consequences",
     "synonym": "meaningful",
     "antonym": "insignificant",
-    "example": "his brief pause was pregnant with meaning.",
-    "id": 261
+    "example": "his brief pause was pregnant with meaning."
   },
   {
+    "id": 303,
+    "word": "presage",
+    "definition": "To indicate or warn of a future event before it happens.",
+    "synonym": "foretell",
+    "antonym": "reassure",
+    "example": "The dark clouds seemed to presage a violent storm."
+  },
+  {
+    "id": 304,
     "word": "presume",
     "definition": "to suppose something is true without sufficient evidence",
     "synonym": "assume",
     "antonym": "verify",
-    "example": "do not presume you know the answer.",
-    "id": 262
+    "example": "do not presume you know the answer."
   },
   {
+    "id": 305,
     "word": "pretentious",
     "definition": "trying to appear more important, intelligent, or cultured than one really is",
     "synonym": "showy",
     "antonym": "modest",
-    "example": "his pretentious speech annoyed the audience.",
-    "id": 263
+    "example": "his pretentious speech annoyed the audience."
   },
   {
+    "id": 306,
     "word": "prevail",
     "definition": "to succeed or prove stronger; to be widespread",
     "synonym": "triumph",
     "antonym": "fail",
-    "example": "despite the storm, hope prevailed.",
-    "id": 264
+    "example": "despite the storm, hope prevailed."
   },
   {
+    "id": 307,
+    "word": "prevaricate",
+    "definition": "To avoid telling the truth or answering directly by speaking evasively.",
+    "synonym": "equivocate",
+    "antonym": "speak plainly",
+    "example": "When asked a direct question, the witness began to prevaricate."
+  },
+  {
+    "id": 308,
     "word": "primer",
     "definition": "an introductory book or guide to a subject",
     "synonym": "introductory text",
     "antonym": "advanced treatise",
-    "example": "the student used a science primer to learn the basics.",
-    "id": 265
+    "example": "the student used a science primer to learn the basics."
   },
   {
+    "id": 309,
     "word": "primitive",
     "definition": "simple, basic, or characteristic of an early stage of development",
     "synonym": "rudimentary",
     "antonym": "advanced",
-    "example": "people used primitive tools thousands of years ago.",
-    "id": 266
+    "example": "people used primitive tools thousands of years ago."
   },
   {
+    "id": 310,
     "word": "privy",
     "definition": "having access to private or secret information",
     "synonym": "aware",
     "antonym": "ignorant",
-    "example": "only a few insiders were privy to the plan.",
-    "id": 267
+    "example": "only a few insiders were privy to the plan."
   },
   {
+    "id": 311,
     "word": "procrastinate",
     "definition": "to delay doing something that should be done",
     "synonym": "delay",
     "antonym": "act promptly",
-    "example": "she tends to procrastinate instead of finishing her work.",
-    "id": 268
+    "example": "she tends to procrastinate instead of finishing her work."
   },
   {
+    "id": 312,
     "word": "prolific",
     "definition": "producing a large amount of something, especially creative work",
     "synonym": "productive",
     "antonym": "unfruitful",
-    "example": "the prolific author published three books in a year.",
-    "id": 269
+    "example": "the prolific author published three books in a year."
   },
   {
+    "id": 313,
     "word": "prone (1)",
     "definition": "likely or susceptible to something",
     "synonym": "susceptible",
     "antonym": "resistant",
-    "example": "she is prone to catching colds in winter.",
-    "id": 270
+    "example": "she is prone to catching colds in winter."
   },
   {
+    "id": 314,
     "word": "prone (2)",
     "definition": "lying flat with the face downward",
     "synonym": "lying face down",
     "antonym": "upright",
-    "example": "he lay prone on the ground after tripping.",
-    "id": 271
+    "example": "he lay prone on the ground after tripping."
   },
   {
+    "id": 315,
     "word": "proportionate",
     "definition": "corresponding appropriately in size, degree, or amount",
     "synonym": "proportional",
     "antonym": "disproportionate",
-    "example": "the punishment should be proportionate to the offense.",
-    "id": 272
+    "example": "the punishment should be proportionate to the offense."
   },
   {
+    "id": 316,
     "word": "prosperity",
     "definition": "a state of wealth, success, or flourishing",
     "synonym": "wealth",
     "antonym": "poverty",
-    "example": "years of peace brought prosperity to the region.",
-    "id": 273
+    "example": "years of peace brought prosperity to the region."
   },
   {
+    "id": 317,
     "word": "provisional",
     "definition": "temporary or conditional, pending a final decision",
     "synonym": "temporary",
     "antonym": "permanent",
-    "example": "the committee gave provisional approval to the proposal.",
-    "id": 274
+    "example": "the committee gave provisional approval to the proposal."
   },
   {
+    "id": 318,
     "word": "provoke",
     "definition": "to cause a reaction, especially anger or irritation",
     "synonym": "incite",
     "antonym": "calm",
-    "example": "his rude joke may provoke an argument.",
-    "id": 275
+    "example": "his rude joke may provoke an argument."
   },
   {
+    "id": 319,
     "word": "prudent",
     "definition": "careful and sensible about future consequences",
     "synonym": "wise",
     "antonym": "reckless",
-    "example": "it is prudent to save money for emergencies.",
-    "id": 276
+    "example": "it is prudent to save money for emergencies."
   },
   {
+    "id": 320,
     "word": "pseudonym",
     "definition": "a false name used by a person, especially an author",
     "synonym": "pen name",
     "antonym": "real name",
-    "example": "the writer published under a pseudonym.",
-    "id": 277
+    "example": "the writer published under a pseudonym."
   },
   {
+    "id": 321,
     "word": "quagmire",
     "definition": "a difficult, complicated, or dangerous situation from which escape is hard",
     "synonym": "predicament",
     "antonym": "solution",
-    "example": "the company found itself in a financial quagmire.",
-    "id": 278
+    "example": "the company found itself in a financial quagmire."
   },
   {
+    "id": 322,
     "word": "quaint",
     "definition": "attractively old-fashioned or unusual",
     "synonym": "charming",
     "antonym": "modern",
-    "example": "we stayed in a quaint cottage by the lake.",
-    "id": 279
+    "example": "we stayed in a quaint cottage by the lake."
   },
   {
+    "id": 323,
     "word": "quarrel",
     "definition": "an angry disagreement or argument",
     "synonym": "dispute",
     "antonym": "agreement",
-    "example": "the siblings had a quarrel over the toy.",
-    "id": 280
+    "example": "the siblings had a quarrel over the toy."
   },
   {
+    "id": 324,
     "word": "quench",
     "definition": "to satisfy a thirst or desire; to extinguish",
     "synonym": "extinguish",
     "antonym": "ignite",
-    "example": "the rain helped quench the fire.",
-    "id": 281
+    "example": "the rain helped quench the fire."
   },
   {
+    "id": 325,
     "word": "quiproquo",
     "definition": "a misunderstanding caused by confusion between people or things",
     "synonym": "misunderstanding",
     "antonym": "clarity",
-    "example": "a quiproquo caused both friends to miss the meeting.",
-    "id": 282
+    "example": "a quiproquo caused both friends to miss the meeting."
   },
   {
+    "id": 326,
     "word": "quixotic",
     "definition": "idealistic but unrealistic and impractical",
     "synonym": "impractical",
     "antonym": "realistic",
-    "example": "his quixotic plan to solve everything overnight failed.",
-    "id": 283
+    "example": "his quixotic plan to solve everything overnight failed."
   },
   {
+    "id": 327,
     "word": "radical",
     "definition": "favoring fundamental or extreme change; far-reaching",
     "synonym": "extreme",
     "antonym": "moderate",
-    "example": "the committee rejected the radical proposal.",
-    "id": 284
+    "example": "the committee rejected the radical proposal."
   },
   {
+    "id": 328,
     "word": "rational",
     "definition": "based on reason and logic",
     "synonym": "logical",
     "antonym": "irrational",
-    "example": "her rational explanation eased our fears.",
-    "id": 285
+    "example": "her rational explanation eased our fears."
   },
   {
+    "id": 329,
     "word": "recalcitrant",
     "definition": "stubbornly resistant to authority, control, or change",
     "synonym": "defiant",
     "antonym": "obedient",
-    "example": "the recalcitrant student refused to sit down.",
-    "id": 286
+    "example": "the recalcitrant student refused to sit down."
   },
   {
+    "id": 330,
     "word": "refine",
     "definition": "to improve something by making small changes or removing imperfections",
     "synonym": "improve",
     "antonym": "spoil",
-    "example": "gold is refined to remove impurities.",
-    "id": 287
+    "example": "gold is refined to remove impurities."
   },
   {
+    "id": 331,
     "word": "relinquish",
     "definition": "to give up, surrender, or release something",
     "synonym": "surrender",
     "antonym": "retain",
-    "example": "she reluctantly relinquished control of the project.",
-    "id": 288
+    "example": "she reluctantly relinquished control of the project."
   },
   {
+    "id": 332,
     "word": "reluctant",
     "definition": "unwilling or hesitant",
     "synonym": "hesitant",
     "antonym": "eager",
-    "example": "she was reluctant to speak in public.",
-    "id": 289
+    "example": "she was reluctant to speak in public."
   },
   {
+    "id": 333,
     "word": "renegade",
     "definition": "a person who rejects or betrays a group, cause, or established convention",
     "synonym": "rebel",
     "antonym": "loyalist",
-    "example": "the renegade soldier abandoned his former allies.",
-    "id": 290
+    "example": "the renegade soldier abandoned his former allies."
   },
   {
+    "id": 334,
     "word": "resilient",
     "definition": "able to recover quickly from difficulty or change",
     "synonym": "tough",
     "antonym": "fragile",
-    "example": "children can be remarkably resilient after setbacks.",
-    "id": 291
+    "example": "children can be remarkably resilient after setbacks."
   },
   {
+    "id": 335,
     "word": "respite",
     "definition": "a short period of rest or relief from something difficult",
     "synonym": "relief",
     "antonym": "hardship",
-    "example": "the cool evening provided a respite from the heat.",
-    "id": 292
+    "example": "the cool evening provided a respite from the heat."
   },
   {
+    "id": 336,
     "word": "reticent",
     "definition": "reserved and unwilling to speak freely",
     "synonym": "reserved",
     "antonym": "outspoken",
-    "example": "She was reticent about sharing personal information.",
-    "id": 293
+    "example": "She was reticent about sharing personal information."
   },
   {
+    "id": 337,
     "word": "righteous",
     "definition": "morally right, just, or virtuous",
     "synonym": "virtuous",
     "antonym": "immoral",
-    "example": "the judge was known for making righteous decisions.",
-    "id": 294
+    "example": "the judge was known for making righteous decisions."
   },
   {
+    "id": 338,
     "word": "rigid",
     "definition": "stiff and inflexible; unwilling to change",
     "synonym": "inflexible",
     "antonym": "flexible",
-    "example": "the rigid rules left no room for creativity.",
-    "id": 295
+    "example": "the rigid rules left no room for creativity."
   },
   {
+    "id": 339,
     "word": "robust",
     "definition": "strong, healthy, and able to withstand difficult conditions",
     "synonym": "strong",
     "antonym": "weak",
-    "example": "the company reported robust growth.",
-    "id": 296
+    "example": "the company reported robust growth."
   },
   {
+    "id": 340,
     "word": "rowdy",
     "definition": "noisy, disorderly, and boisterous",
     "synonym": "boisterous",
     "antonym": "orderly",
-    "example": "The rowdy crowd made it difficult to hear the speaker.",
-    "id": 297
+    "example": "The rowdy crowd made it difficult to hear the speaker."
   },
   {
+    "id": 341,
     "word": "sanctioned",
     "definition": "officially approved or authorized; alternatively, penalized for violating a rule",
     "synonym": "authorized",
     "antonym": "forbidden",
-    "example": "the sanctioned event took place in the gym.",
-    "id": 298
+    "example": "the sanctioned event took place in the gym."
   },
   {
+    "id": 342,
     "word": "satiate",
     "definition": "to satisfy fully, especially an appetite or desire",
     "synonym": "satisfy",
     "antonym": "deprive",
-    "example": "the snack did little to satiate his hunger.",
-    "id": 299
+    "example": "the snack did little to satiate his hunger."
   },
   {
+    "id": 343,
     "word": "savvy",
     "definition": "knowledgeable, shrewd, and practical",
     "synonym": "shrewd",
     "antonym": "naive",
-    "example": "the savvy investor carefully studied the company before buying shares.",
-    "id": 300
+    "example": "the savvy investor carefully studied the company before buying shares."
   },
   {
+    "id": 344,
     "word": "scion",
     "definition": "a descendant or heir of a notable family",
     "synonym": "descendant",
     "antonym": "ancestor",
-    "example": "as the scion of a prominent family, she was expected to continue its traditions.",
-    "id": 301
+    "example": "as the scion of a prominent family, she was expected to continue its traditions."
   },
   {
+    "id": 345,
     "word": "scorn",
     "definition": "to express contempt or strong disrespect",
     "synonym": "contempt",
     "antonym": "admiration",
-    "example": "she treated the rumor with scorn.",
-    "id": 302
+    "example": "she treated the rumor with scorn."
   },
   {
+    "id": 346,
     "word": "scourge",
     "definition": "a person or thing that causes widespread suffering or destruction",
     "synonym": "plague",
     "antonym": "blessing",
-    "example": "the disease became a scourge on the city.",
-    "id": 303
+    "example": "the disease became a scourge on the city."
   },
   {
+    "id": 347,
+    "word": "scruffy",
+    "definition": "Untidy, shabby, or poorly groomed in appearance.",
+    "synonym": "unkempt",
+    "antonym": "neat",
+    "example": "After several days of camping, the hikers looked tired and scruffy."
+  },
+  {
+    "id": 348,
     "word": "scrutinize",
     "definition": "to examine something very carefully and critically",
     "synonym": "examine",
     "antonym": "overlook",
-    "example": "editors scrutinize every line for errors.",
-    "id": 304
+    "example": "editors scrutinize every line for errors."
   },
   {
+    "id": 349,
     "word": "seep",
     "definition": "To flow or pass slowly through small openings.",
     "synonym": "trickle",
     "antonym": "gush",
-    "example": "Water began to seep through the cracks in the basement wall.",
-    "id": 305
+    "example": "Water began to seep through the cracks in the basement wall."
   },
   {
+    "id": 350,
     "word": "seldom",
     "definition": "not often; rarely",
     "synonym": "rarely",
     "antonym": "often",
-    "example": "we seldom see snow in april.",
-    "id": 306
+    "example": "we seldom see snow in april."
   },
   {
+    "id": 351,
     "word": "seminal",
     "definition": "highly influential and important in the development of later ideas or events",
     "synonym": "groundbreaking",
     "antonym": "derivative",
-    "example": "his seminal paper changed the field forever.",
-    "id": 307
+    "example": "his seminal paper changed the field forever."
   },
   {
+    "id": 352,
     "word": "serene",
     "definition": "calm, peaceful, and untroubled",
     "synonym": "calm",
     "antonym": "agitated",
-    "example": "the lake looked serene at sunrise.",
-    "id": 308
+    "example": "the lake looked serene at sunrise."
   },
   {
+    "id": 353,
     "word": "serfdom",
     "definition": "a social system in which peasants were bound to work on a lord's land",
     "synonym": "bondage",
     "antonym": "freedom",
-    "example": "serfdom kept peasants tied to the land.",
-    "id": 309
+    "example": "serfdom kept peasants tied to the land."
   },
   {
+    "id": 354,
+    "word": "shrewd",
+    "definition": "Having sharp judgment and a practical understanding of situations.",
+    "synonym": "astute",
+    "antonym": "naive",
+    "example": "Her shrewd assessment of the situation helped the company avoid a costly mistake."
+  },
+  {
+    "id": 355,
     "word": "sift",
     "definition": "To separate or examine something carefully in order to remove unwanted material or find what is important.",
     "synonym": "filter",
     "antonym": "combine",
-    "example": "She sifted the flour before adding it to the mixture.",
-    "id": 310
+    "example": "She sifted the flour before adding it to the mixture."
   },
   {
+    "id": 356,
     "word": "skeptical",
     "definition": "doubtful or questioning; not easily convinced",
     "synonym": "doubtful",
     "antonym": "convinced",
-    "example": "she was skeptical of the incredible claim.",
-    "id": 311
+    "example": "she was skeptical of the incredible claim."
   },
   {
+    "id": 357,
     "word": "smother",
     "definition": "to suffocate or cover completely; to suppress",
     "synonym": "stifle",
     "antonym": "free",
-    "example": "heavy blankets can smother a small fire.",
-    "id": 312
+    "example": "heavy blankets can smother a small fire."
   },
   {
+    "id": 358,
+    "word": "sobersided",
+    "definition": "Serious, solemn, and not given to frivolity.",
+    "synonym": "serious",
+    "antonym": "frivolous",
+    "example": "The sobersided professor rarely joined in the students' jokes."
+  },
+  {
+    "id": 359,
     "word": "specious",
     "definition": "seemingly convincing but actually false or misleading",
     "synonym": "misleading",
     "antonym": "genuine",
-    "example": "his specious argument sounded clever but was false.",
-    "id": 313
+    "example": "his specious argument sounded clever but was false."
   },
   {
+    "id": 360,
     "word": "spontaneous",
     "definition": "occurring naturally or without advance planning",
     "synonym": "impulsive",
     "antonym": "planned",
-    "example": "Their spontaneous road trip turned into a memorable adventure.",
-    "id": 314
+    "example": "Their spontaneous road trip turned into a memorable adventure."
   },
   {
+    "id": 361,
     "word": "sporadic",
     "definition": "occurring occasionally and irregularly",
     "synonym": "occasional",
     "antonym": "constant",
-    "example": "we had sporadic phone service on the hike.",
-    "id": 315
+    "example": "we had sporadic phone service on the hike."
   },
   {
+    "id": 362,
     "word": "spurious",
     "definition": "false or not genuine",
     "synonym": "false.",
     "antonym": "genuine",
-    "example": "the article relied on spurious evidence.",
-    "id": 316
+    "example": "the article relied on spurious evidence."
   },
   {
+    "id": 363,
     "word": "stagnant",
     "definition": "showing little or no growth, movement, or development",
     "synonym": "motionless",
     "antonym": "thriving",
-    "example": "without fresh ideas, the business became stagnant.",
-    "id": 317
+    "example": "without fresh ideas, the business became stagnant."
   },
   {
+    "id": 364,
+    "word": "staid",
+    "definition": "Serious, respectable, and somewhat dull or conventional.",
+    "synonym": "sedate",
+    "antonym": "lively",
+    "example": "The staid banker surprised everyone by dancing at the celebration."
+  },
+  {
+    "id": 365,
     "word": "steadfast",
     "definition": "firm, loyal, and unwavering",
     "synonym": "unwavering",
     "antonym": "fickle",
-    "example": "she remained steadfast in her support despite the criticism.",
-    "id": 318
+    "example": "she remained steadfast in her support despite the criticism."
   },
   {
+    "id": 366,
     "word": "stoic",
     "definition": "enduring pain or difficulty without showing emotion or complaining",
     "synonym": "unemotional",
     "antonym": "expressive",
-    "example": "she remained stoic even during the crisis.",
-    "id": 319
+    "example": "she remained stoic even during the crisis."
   },
   {
+    "id": 367,
     "word": "strewn",
     "definition": "scattered untidily over an area",
     "synonym": "scattered",
     "antonym": "gathered",
-    "example": "leaves were strewn across the lawn.",
-    "id": 320
+    "example": "leaves were strewn across the lawn."
   },
   {
+    "id": 368,
     "word": "studious",
     "definition": "devoted to studying and learning",
     "synonym": "hardworking",
     "antonym": "idle",
-    "example": "the studious child spent the afternoon reading.",
-    "id": 321
+    "example": "the studious child spent the afternoon reading."
   },
   {
+    "id": 369,
     "word": "sublime",
     "definition": "of exceptional beauty, excellence, or grandeur",
     "synonym": "magnificent",
     "antonym": "mediocre",
-    "example": "we admired the sublime beauty of the mountains.",
-    "id": 322
+    "example": "we admired the sublime beauty of the mountains."
   },
   {
+    "id": 370,
     "word": "subtle",
     "definition": "delicate, understated, or difficult to detect or understand",
     "synonym": "delicate",
     "antonym": "obvious",
-    "example": "there was a subtle change in his tone.",
-    "id": 323
+    "example": "there was a subtle change in his tone."
   },
   {
+    "id": 371,
     "word": "sullen",
     "definition": "gloomy, silent, and bad-tempered",
     "synonym": "gloomy",
     "antonym": "cheerful",
-    "example": "after losing the game he sat in sullen silence.",
-    "id": 324
+    "example": "after losing the game he sat in sullen silence."
   },
   {
+    "id": 372,
     "word": "supersed",
     "definition": "to replace or take the place of something older or less effective",
     "synonym": "replace",
     "antonym": "retain",
-    "example": "the new policy will supersede the old one.",
-    "id": 325
+    "example": "the new policy will supersede the old one."
   },
   {
+    "id": 373,
     "word": "supportive",
     "definition": "providing encouragement, assistance, or approval",
     "synonym": "helpful",
     "antonym": "unsupportive",
-    "example": "her supportive friends cheered her on.",
-    "id": 326
+    "example": "her supportive friends cheered her on."
   },
   {
+    "id": 374,
     "word": "surly",
     "definition": "bad-tempered and unfriendly",
     "synonym": "ill-tempered",
     "antonym": "cheerful",
-    "example": "the surly clerk responded to our questions with obvious annoyance.",
-    "id": 327
+    "example": "the surly clerk responded to our questions with obvious annoyance."
   },
   {
+    "id": 375,
     "word": "sustain",
     "definition": "to maintain, support, or keep something going over time",
     "synonym": "maintain",
     "antonym": "abandon",
-    "example": "healthy soil helps sustain plant life.",
-    "id": 328
+    "example": "healthy soil helps sustain plant life."
   },
   {
+    "id": 376,
     "word": "sustenance",
     "definition": "food or nourishment; something that supports life or strength",
     "synonym": "nourishment",
     "antonym": "starvation",
-    "example": "the hikers carried enough sustenance for two days.",
-    "id": 329
+    "example": "the hikers carried enough sustenance for two days."
   },
   {
+    "id": 377,
     "word": "swift",
     "definition": "Happening or moving very quickly.",
     "synonym": "rapid",
     "antonym": "slow",
-    "example": "The firefighters took swift action to contain the blaze.",
-    "id": 330
+    "example": "The firefighters took swift action to contain the blaze."
   },
   {
+    "id": 378,
     "word": "sympathetic",
     "definition": "showing understanding and concern for another person's feelings",
     "synonym": "compassionate",
     "antonym": "callous",
-    "example": "the doctor was sympathetic to her concerns.",
-    "id": 331
+    "example": "the doctor was sympathetic to her concerns."
   },
   {
+    "id": 379,
     "word": "synergy",
     "definition": "the increased effectiveness produced when people or things work together",
     "synonym": "cooperation",
     "antonym": "discord",
-    "example": "the team's synergy led to a quick win.",
-    "id": 332
+    "example": "the team's synergy led to a quick win."
   },
   {
+    "id": 380,
     "word": "taciturn",
     "definition": "habitually quiet and using few words",
     "synonym": "reserved",
     "antonym": "talkative",
-    "example": "the taciturn boy rarely spoke during class discussions.",
-    "id": 333
+    "example": "the taciturn boy rarely spoke during class discussions."
   },
   {
+    "id": 381,
     "word": "tactful",
     "definition": "careful not to offend others; diplomatic",
     "synonym": "diplomatic",
     "antonym": "blunt",
-    "example": "he gave tactful feedback on the draft.",
-    "id": 334
+    "example": "he gave tactful feedback on the draft."
   },
   {
+    "id": 382,
     "word": "tedious",
     "definition": "boring because it is long, repetitive, or monotonous",
     "synonym": "boring",
     "antonym": "engaging",
-    "example": "sorting the beads by color was tedious work.",
-    "id": 335
+    "example": "sorting the beads by color was tedious work."
   },
   {
+    "id": 383,
     "word": "tenacious",
     "definition": "persistent and determined; not giving up easily",
     "synonym": "persistent",
     "antonym": "yielding",
-    "example": "the tenacious lawyer refused to give up.",
-    "id": 336
+    "example": "the tenacious lawyer refused to give up."
   },
   {
+    "id": 384,
     "word": "tentative",
     "definition": "uncertain or not yet final",
     "synonym": "uncertain",
     "antonym": "definite",
-    "example": "we made a tentative plan for next weekend.",
-    "id": 337
+    "example": "we made a tentative plan for next weekend."
   },
   {
+    "id": 385,
+    "word": "terse",
+    "definition": "Using very few words, sometimes in a way that seems abrupt.",
+    "synonym": "concise",
+    "antonym": "verbose",
+    "example": "His terse reply made it clear that he did not want to continue the conversation."
+  },
+  {
+    "id": 386,
     "word": "thrifty",
     "definition": "careful with money and resources; economical",
     "synonym": "economical",
     "antonym": "wasteful",
-    "example": "thrifty shoppers look for sales.",
-    "id": 338
+    "example": "thrifty shoppers look for sales."
   },
   {
+    "id": 387,
     "word": "torrid",
     "definition": "extremely hot and dry; passionate or intense",
     "synonym": "scorching",
     "antonym": "frigid",
-    "example": "the runners struggled in the torrid summer heat.",
-    "id": 339
+    "example": "the runners struggled in the torrid summer heat."
   },
   {
+    "id": 388,
     "word": "tranquil",
     "definition": "calm and peaceful",
     "synonym": "peaceful",
     "antonym": "chaotic",
-    "example": "the garden felt tranquil after the rain.",
-    "id": 340
+    "example": "the garden felt tranquil after the rain."
   },
   {
+    "id": 389,
     "word": "transaction",
     "definition": "an exchange or business dealing between parties",
     "synonym": "exchange",
     "antonym": "nonexchange",
-    "example": "the purchase of the house was the largest financial transaction of his life.",
-    "id": 341
+    "example": "the purchase of the house was the largest financial transaction of his life."
   },
   {
+    "id": 390,
     "word": "triage",
     "definition": "the process of prioritizing people or tasks according to urgency or importance",
     "synonym": "prioritize",
     "antonym": "neglect",
-    "example": "doctors must triage patients after a major disaster.",
-    "id": 342
+    "example": "doctors must triage patients after a major disaster."
   },
   {
+    "id": 391,
     "word": "trivial",
     "definition": "of little importance or value",
     "synonym": "minor",
     "antonym": "significant",
-    "example": "we ignored the trivial mistake and moved on.",
-    "id": 343
+    "example": "we ignored the trivial mistake and moved on."
   },
   {
+    "id": 392,
     "word": "ubiquitous",
     "definition": "present or found everywhere",
     "synonym": "everywhere",
     "antonym": "rare",
-    "example": "smartphones are ubiquitous today.",
-    "id": 344
+    "example": "smartphones are ubiquitous today."
   },
   {
+    "id": 393,
     "word": "uphold",
     "definition": "to support, defend, or maintain a principle or decision",
     "synonym": "support",
     "antonym": "overturn",
-    "example": "courts must uphold the law.",
-    "id": 345
+    "example": "courts must uphold the law."
   },
   {
+    "id": 394,
     "word": "vagrant",
     "definition": "a person without a settled home who wanders from place to place",
     "synonym": "homeless",
     "antonym": "settled",
-    "example": "the city offered shelters for vagrant people.",
-    "id": 346
+    "example": "the city offered shelters for vagrant people."
   },
   {
+    "id": 395,
     "word": "valiant",
     "definition": "brave and determined in the face of danger",
     "synonym": "brave",
     "antonym": "cowardly",
-    "example": "the valiant firefighter rescued the family.",
-    "id": 347
+    "example": "the valiant firefighter rescued the family."
   },
   {
+    "id": 396,
     "word": "validate",
     "definition": "to confirm or demonstrate that something is correct, legitimate, or acceptable",
     "synonym": "confirm",
     "antonym": "refute",
-    "example": "the experiment will validate the theory.",
-    "id": 348
+    "example": "the experiment will validate the theory."
   },
   {
+    "id": 397,
     "word": "vanguard",
     "definition": "the forefront of a movement, field, or development",
     "synonym": "forefront",
     "antonym": "rearguard",
-    "example": "the researchers were at the vanguard of advances in artificial intelligence.",
-    "id": 349
+    "example": "the researchers were at the vanguard of advances in artificial intelligence."
   },
   {
+    "id": 398,
     "word": "vanquish",
     "definition": "to defeat thoroughly",
     "synonym": "defeat",
     "antonym": "surrender",
-    "example": "the hero managed to vanquish his powerful opponent.",
-    "id": 350
+    "example": "the hero managed to vanquish his powerful opponent."
   },
   {
+    "id": 399,
     "word": "vapid",
     "definition": "dull, uninteresting, or lacking liveliness",
     "synonym": "lifeless",
     "antonym": "stimulating",
-    "example": "the speech was long and vapid.",
-    "id": 351
+    "example": "the speech was long and vapid."
   },
   {
+    "id": 400,
     "word": "venerate",
     "definition": "to regard with deep respect or reverence",
     "synonym": "revere",
     "antonym": "despise",
-    "example": "many people venerate national heroes.",
-    "id": 352
+    "example": "many people venerate national heroes."
   },
   {
+    "id": 401,
     "word": "veracity",
     "definition": "truthfulness or accuracy",
     "synonym": "truthfulness",
     "antonym": "dishonesty",
-    "example": "the journalist checked the veracity of the claim.",
-    "id": 353
+    "example": "the journalist checked the veracity of the claim."
   },
   {
+    "id": 402,
     "word": "versatile",
     "definition": "able to adapt to many different functions, activities, or situations",
     "synonym": "adaptable",
     "antonym": "limited",
-    "example": "she is a versatile musician who plays several instruments.",
-    "id": 354
+    "example": "she is a versatile musician who plays several instruments."
   },
   {
+    "id": 403,
     "word": "vicarious",
     "definition": "experienced indirectly through another person's actions or feelings",
     "synonym": "indirect",
     "antonym": "firsthand",
-    "example": "he experienced the adventure vicariously through the novel.",
-    "id": 355
+    "example": "he experienced the adventure vicariously through the novel."
   },
   {
+    "id": 404,
     "word": "vigorous",
     "definition": "strong, energetic, and forceful",
     "synonym": "energetic",
     "antonym": "feeble",
-    "example": "she made a vigorous effort to finish the race.",
-    "id": 356
+    "example": "she made a vigorous effort to finish the race."
   },
   {
+    "id": 405,
     "word": "vindicate",
     "definition": "to clear someone of blame or prove that a claim or decision was justified",
     "synonym": "exonerate",
     "antonym": "condemn",
-    "example": "new evidence vindicated the man who had been wrongly accused.",
-    "id": 357
+    "example": "new evidence vindicated the man who had been wrongly accused."
   },
   {
+    "id": 406,
     "word": "virulent",
     "definition": "extremely harmful or severe; bitterly hostile",
     "synonym": "deadly",
     "antonym": "benign",
-    "example": "scientists worked quickly to contain the virulent strain of the virus.",
-    "id": 358
+    "example": "scientists worked quickly to contain the virulent strain of the virus."
   },
   {
+    "id": 407,
     "word": "vivid",
     "definition": "producing clear, powerful, and detailed images in the mind",
     "synonym": "bright",
     "antonym": "faint",
-    "example": "she has a vivid memory of the trip.",
-    "id": 359
+    "example": "she has a vivid memory of the trip."
   },
   {
+    "id": 408,
     "word": "vocation",
     "definition": "a person's occupation or calling, especially one suited to their abilities",
     "synonym": "occupation",
     "antonym": "hobby",
-    "example": "Teaching is more than a job; it is her vocation.",
-    "id": 360
+    "example": "Teaching is more than a job; it is her vocation."
   },
   {
+    "id": 409,
     "word": "voluble",
     "definition": "speaking readily and at great length; talkative",
     "synonym": "talkative",
     "antonym": "reserved",
-    "example": "the voluble guest dominated the conversation.",
-    "id": 361
+    "example": "the voluble guest dominated the conversation."
   },
   {
+    "id": 410,
     "word": "wan",
     "definition": "pale, weak, or lacking vitality",
     "synonym": "pale",
     "antonym": "flushed",
-    "example": "after the long illness, he looked wan.",
-    "id": 362
+    "example": "after the long illness, he looked wan."
   },
   {
+    "id": 411,
     "word": "wary",
     "definition": "cautious and alert to possible danger or problems",
     "synonym": "cautious",
     "antonym": "trusting",
-    "example": "be wary of emails from unknown senders.",
-    "id": 363
+    "example": "be wary of emails from unknown senders."
   },
   {
+    "id": 412,
     "word": "wayward",
     "definition": "difficult to control or disobedient; straying from what is expected",
     "synonym": "unruly",
     "antonym": "obedient",
-    "example": "the teacher struggled to guide the wayward student toward better choices.",
-    "id": 364
+    "example": "the teacher struggled to guide the wayward student toward better choices."
   },
   {
+    "id": 413,
     "word": "wistful",
     "definition": "feeling a gentle sadness or longing for something in the past",
     "synonym": "nostalgic",
     "antonym": "indifferent",
-    "example": "she gave a wistful smile as she remembered her childhood.",
-    "id": 365
+    "example": "she gave a wistful smile as she remembered her childhood."
   },
   {
+    "id": 414,
     "word": "wrangle",
     "definition": "to argue or struggle over something, often at length",
     "synonym": "argue",
     "antonym": "agree",
-    "example": "they continued to wrangle about the best solution.",
-    "id": 366
+    "example": "they continued to wrangle about the best solution."
   },
   {
+    "id": 415,
     "word": "zany",
     "definition": "amusingly unconventional, eccentric, or absurd",
     "synonym": "goofy",
     "antonym": "serious",
-    "example": "kids love zany characters.",
-    "id": 367
+    "example": "kids love zany characters."
   },
   {
+    "id": 416,
     "word": "zealous",
     "definition": "showing great enthusiasm, devotion, or passion",
     "synonym": "fervent",
     "antonym": "apathetic",
-    "example": "the zealous volunteer arrived before everyone else.",
-    "id": 368
+    "example": "the zealous volunteer arrived before everyone else."
   }
 ]
